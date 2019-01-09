@@ -1,0 +1,4142 @@
+fileFormatVersion: 2
+guid: c9e75a970e5f243d183f031e3d69f304
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS DSi - Despicable Me Minion Mayhem - Carl_0
+    21300002: DS DSi - Despicable Me Minion Mayhem - Carl_1
+    21300004: DS DSi - Despicable Me Minion Mayhem - Carl_2
+    21300006: DS DSi - Despicable Me Minion Mayhem - Carl_3
+    21300008: DS DSi - Despicable Me Minion Mayhem - Carl_4
+    21300010: DS DSi - Despicable Me Minion Mayhem - Carl_5
+    21300012: DS DSi - Despicable Me Minion Mayhem - Carl_6
+    21300014: DS DSi - Despicable Me Minion Mayhem - Carl_7
+    21300016: DS DSi - Despicable Me Minion Mayhem - Carl_8
+    21300018: DS DSi - Despicable Me Minion Mayhem - Carl_9
+    21300020: DS DSi - Despicable Me Minion Mayhem - Carl_10
+    21300022: DS DSi - Despicable Me Minion Mayhem - Carl_11
+    21300024: DS DSi - Despicable Me Minion Mayhem - Carl_12
+    21300026: DS DSi - Despicable Me Minion Mayhem - Carl_13
+    21300028: DS DSi - Despicable Me Minion Mayhem - Carl_14
+    21300030: DS DSi - Despicable Me Minion Mayhem - Carl_15
+    21300032: DS DSi - Despicable Me Minion Mayhem - Carl_16
+    21300034: DS DSi - Despicable Me Minion Mayhem - Carl_17
+    21300036: DS DSi - Despicable Me Minion Mayhem - Carl_18
+    21300038: DS DSi - Despicable Me Minion Mayhem - Carl_19
+    21300040: DS DSi - Despicable Me Minion Mayhem - Carl_20
+    21300042: DS DSi - Despicable Me Minion Mayhem - Carl_21
+    21300044: DS DSi - Despicable Me Minion Mayhem - Carl_22
+    21300046: DS DSi - Despicable Me Minion Mayhem - Carl_23
+    21300048: DS DSi - Despicable Me Minion Mayhem - Carl_24
+    21300050: DS DSi - Despicable Me Minion Mayhem - Carl_25
+    21300052: DS DSi - Despicable Me Minion Mayhem - Carl_26
+    21300054: DS DSi - Despicable Me Minion Mayhem - Carl_27
+    21300056: DS DSi - Despicable Me Minion Mayhem - Carl_28
+    21300058: DS DSi - Despicable Me Minion Mayhem - Carl_29
+    21300060: DS DSi - Despicable Me Minion Mayhem - Carl_30
+    21300062: DS DSi - Despicable Me Minion Mayhem - Carl_31
+    21300064: DS DSi - Despicable Me Minion Mayhem - Carl_32
+    21300066: DS DSi - Despicable Me Minion Mayhem - Carl_33
+    21300068: DS DSi - Despicable Me Minion Mayhem - Carl_34
+    21300070: DS DSi - Despicable Me Minion Mayhem - Carl_35
+    21300072: DS DSi - Despicable Me Minion Mayhem - Carl_36
+    21300074: DS DSi - Despicable Me Minion Mayhem - Carl_37
+    21300076: DS DSi - Despicable Me Minion Mayhem - Carl_38
+    21300078: DS DSi - Despicable Me Minion Mayhem - Carl_39
+    21300080: DS DSi - Despicable Me Minion Mayhem - Carl_40
+    21300082: DS DSi - Despicable Me Minion Mayhem - Carl_41
+    21300084: DS DSi - Despicable Me Minion Mayhem - Carl_42
+    21300086: DS DSi - Despicable Me Minion Mayhem - Carl_43
+    21300088: DS DSi - Despicable Me Minion Mayhem - Carl_44
+    21300090: DS DSi - Despicable Me Minion Mayhem - Carl_45
+    21300092: DS DSi - Despicable Me Minion Mayhem - Carl_46
+    21300094: DS DSi - Despicable Me Minion Mayhem - Carl_47
+    21300096: DS DSi - Despicable Me Minion Mayhem - Carl_48
+    21300098: DS DSi - Despicable Me Minion Mayhem - Carl_49
+    21300100: DS DSi - Despicable Me Minion Mayhem - Carl_50
+    21300102: DS DSi - Despicable Me Minion Mayhem - Carl_51
+    21300104: DS DSi - Despicable Me Minion Mayhem - Carl_52
+    21300106: DS DSi - Despicable Me Minion Mayhem - Carl_53
+    21300108: DS DSi - Despicable Me Minion Mayhem - Carl_54
+    21300110: DS DSi - Despicable Me Minion Mayhem - Carl_55
+    21300112: DS DSi - Despicable Me Minion Mayhem - Carl_56
+    21300114: DS DSi - Despicable Me Minion Mayhem - Carl_57
+    21300116: DS DSi - Despicable Me Minion Mayhem - Carl_58
+    21300118: DS DSi - Despicable Me Minion Mayhem - Carl_59
+    21300120: DS DSi - Despicable Me Minion Mayhem - Carl_60
+    21300122: DS DSi - Despicable Me Minion Mayhem - Carl_61
+    21300124: DS DSi - Despicable Me Minion Mayhem - Carl_62
+    21300126: DS DSi - Despicable Me Minion Mayhem - Carl_63
+    21300128: DS DSi - Despicable Me Minion Mayhem - Carl_64
+    21300130: DS DSi - Despicable Me Minion Mayhem - Carl_65
+    21300132: DS DSi - Despicable Me Minion Mayhem - Carl_66
+    21300134: DS DSi - Despicable Me Minion Mayhem - Carl_67
+    21300136: DS DSi - Despicable Me Minion Mayhem - Carl_68
+    21300138: DS DSi - Despicable Me Minion Mayhem - Carl_69
+    21300140: DS DSi - Despicable Me Minion Mayhem - Carl_70
+    21300142: DS DSi - Despicable Me Minion Mayhem - Carl_71
+    21300144: DS DSi - Despicable Me Minion Mayhem - Carl_72
+    21300146: DS DSi - Despicable Me Minion Mayhem - Carl_73
+    21300148: DS DSi - Despicable Me Minion Mayhem - Carl_74
+    21300150: DS DSi - Despicable Me Minion Mayhem - Carl_75
+    21300152: DS DSi - Despicable Me Minion Mayhem - Carl_76
+    21300154: DS DSi - Despicable Me Minion Mayhem - Carl_77
+    21300156: DS DSi - Despicable Me Minion Mayhem - Carl_78
+    21300158: DS DSi - Despicable Me Minion Mayhem - Carl_79
+    21300160: DS DSi - Despicable Me Minion Mayhem - Carl_80
+    21300162: DS DSi - Despicable Me Minion Mayhem - Carl_81
+    21300164: DS DSi - Despicable Me Minion Mayhem - Carl_82
+    21300166: DS DSi - Despicable Me Minion Mayhem - Carl_83
+    21300168: DS DSi - Despicable Me Minion Mayhem - Carl_84
+    21300170: DS DSi - Despicable Me Minion Mayhem - Carl_85
+    21300172: DS DSi - Despicable Me Minion Mayhem - Carl_86
+    21300174: DS DSi - Despicable Me Minion Mayhem - Carl_87
+    21300176: DS DSi - Despicable Me Minion Mayhem - Carl_88
+    21300178: DS DSi - Despicable Me Minion Mayhem - Carl_89
+    21300180: DS DSi - Despicable Me Minion Mayhem - Carl_90
+    21300182: DS DSi - Despicable Me Minion Mayhem - Carl_91
+    21300184: DS DSi - Despicable Me Minion Mayhem - Carl_92
+    21300186: DS DSi - Despicable Me Minion Mayhem - Carl_93
+    21300188: DS DSi - Despicable Me Minion Mayhem - Carl_94
+    21300190: DS DSi - Despicable Me Minion Mayhem - Carl_95
+    21300192: DS DSi - Despicable Me Minion Mayhem - Carl_96
+    21300194: DS DSi - Despicable Me Minion Mayhem - Carl_97
+    21300196: DS DSi - Despicable Me Minion Mayhem - Carl_98
+    21300198: DS DSi - Despicable Me Minion Mayhem - Carl_99
+    21300200: DS DSi - Despicable Me Minion Mayhem - Carl_100
+    21300202: DS DSi - Despicable Me Minion Mayhem - Carl_101
+    21300204: DS DSi - Despicable Me Minion Mayhem - Carl_102
+    21300206: DS DSi - Despicable Me Minion Mayhem - Carl_103
+    21300208: DS DSi - Despicable Me Minion Mayhem - Carl_104
+    21300210: DS DSi - Despicable Me Minion Mayhem - Carl_105
+    21300212: DS DSi - Despicable Me Minion Mayhem - Carl_106
+    21300214: DS DSi - Despicable Me Minion Mayhem - Carl_107
+    21300216: DS DSi - Despicable Me Minion Mayhem - Carl_108
+    21300218: DS DSi - Despicable Me Minion Mayhem - Carl_109
+    21300220: DS DSi - Despicable Me Minion Mayhem - Carl_110
+    21300222: DS DSi - Despicable Me Minion Mayhem - Carl_111
+    21300224: DS DSi - Despicable Me Minion Mayhem - Carl_112
+    21300226: DS DSi - Despicable Me Minion Mayhem - Carl_113
+    21300228: DS DSi - Despicable Me Minion Mayhem - Carl_114
+    21300230: DS DSi - Despicable Me Minion Mayhem - Carl_115
+    21300232: DS DSi - Despicable Me Minion Mayhem - Carl_116
+    21300234: DS DSi - Despicable Me Minion Mayhem - Carl_117
+    21300236: DS DSi - Despicable Me Minion Mayhem - Carl_118
+    21300238: DS DSi - Despicable Me Minion Mayhem - Carl_119
+    21300240: DS DSi - Despicable Me Minion Mayhem - Carl_120
+    21300242: DS DSi - Despicable Me Minion Mayhem - Carl_121
+    21300244: DS DSi - Despicable Me Minion Mayhem - Carl_122
+    21300246: DS DSi - Despicable Me Minion Mayhem - Carl_123
+    21300248: DS DSi - Despicable Me Minion Mayhem - Carl_124
+    21300250: DS DSi - Despicable Me Minion Mayhem - Carl_125
+    21300252: DS DSi - Despicable Me Minion Mayhem - Carl_126
+    21300254: DS DSi - Despicable Me Minion Mayhem - Carl_127
+    21300256: DS DSi - Despicable Me Minion Mayhem - Carl_128
+    21300258: DS DSi - Despicable Me Minion Mayhem - Carl_129
+    21300260: DS DSi - Despicable Me Minion Mayhem - Carl_130
+    21300262: DS DSi - Despicable Me Minion Mayhem - Carl_131
+    21300264: DS DSi - Despicable Me Minion Mayhem - Carl_132
+    21300266: DS DSi - Despicable Me Minion Mayhem - Carl_133
+    21300268: DS DSi - Despicable Me Minion Mayhem - Carl_134
+    21300270: DS DSi - Despicable Me Minion Mayhem - Carl_135
+    21300272: DS DSi - Despicable Me Minion Mayhem - Carl_136
+    21300274: DS DSi - Despicable Me Minion Mayhem - Carl_137
+    21300276: DS DSi - Despicable Me Minion Mayhem - Carl_138
+    21300278: DS DSi - Despicable Me Minion Mayhem - Carl_139
+    21300280: DS DSi - Despicable Me Minion Mayhem - Carl_140
+    21300282: DS DSi - Despicable Me Minion Mayhem - Carl_141
+    21300284: DS DSi - Despicable Me Minion Mayhem - Carl_142
+    21300286: DS DSi - Despicable Me Minion Mayhem - Carl_143
+    21300288: DS DSi - Despicable Me Minion Mayhem - Carl_144
+    21300290: DS DSi - Despicable Me Minion Mayhem - Carl_145
+    21300292: DS DSi - Despicable Me Minion Mayhem - Carl_146
+    21300294: DS DSi - Despicable Me Minion Mayhem - Carl_147
+    21300296: DS DSi - Despicable Me Minion Mayhem - Carl_148
+    21300298: DS DSi - Despicable Me Minion Mayhem - Carl_149
+    21300300: DS DSi - Despicable Me Minion Mayhem - Carl_150
+    21300302: DS DSi - Despicable Me Minion Mayhem - Carl_151
+    21300304: DS DSi - Despicable Me Minion Mayhem - Carl_152
+    21300306: DS DSi - Despicable Me Minion Mayhem - Carl_153
+    21300308: DS DSi - Despicable Me Minion Mayhem - Carl_154
+    21300310: DS DSi - Despicable Me Minion Mayhem - Carl_155
+    21300312: DS DSi - Despicable Me Minion Mayhem - Carl_156
+    21300314: DS DSi - Despicable Me Minion Mayhem - Carl_157
+    21300316: DS DSi - Despicable Me Minion Mayhem - Carl_158
+    21300318: DS DSi - Despicable Me Minion Mayhem - Carl_159
+    21300320: DS DSi - Despicable Me Minion Mayhem - Carl_160
+    21300322: DS DSi - Despicable Me Minion Mayhem - Carl_161
+    21300324: DS DSi - Despicable Me Minion Mayhem - Carl_162
+    21300326: DS DSi - Despicable Me Minion Mayhem - Carl_163
+    21300328: DS DSi - Despicable Me Minion Mayhem - Carl_164
+    21300330: DS DSi - Despicable Me Minion Mayhem - Carl_165
+    21300332: DS DSi - Despicable Me Minion Mayhem - Carl_166
+    21300334: DS DSi - Despicable Me Minion Mayhem - Carl_167
+    21300336: DS DSi - Despicable Me Minion Mayhem - Carl_168
+    21300338: DS DSi - Despicable Me Minion Mayhem - Carl_169
+    21300340: DS DSi - Despicable Me Minion Mayhem - Carl_170
+    21300342: DS DSi - Despicable Me Minion Mayhem - Carl_171
+    21300344: DS DSi - Despicable Me Minion Mayhem - Carl_172
+    21300346: DS DSi - Despicable Me Minion Mayhem - Carl_173
+    21300348: DS DSi - Despicable Me Minion Mayhem - Carl_174
+    21300350: DS DSi - Despicable Me Minion Mayhem - Carl_175
+    21300352: DS DSi - Despicable Me Minion Mayhem - Carl_176
+    21300354: DS DSi - Despicable Me Minion Mayhem - Carl_177
+    21300356: DS DSi - Despicable Me Minion Mayhem - Carl_178
+    21300358: DS DSi - Despicable Me Minion Mayhem - Carl_179
+    21300360: DS DSi - Despicable Me Minion Mayhem - Carl_180
+    21300362: DS DSi - Despicable Me Minion Mayhem - Carl_181
+    21300364: DS DSi - Despicable Me Minion Mayhem - Carl_182
+    21300366: DS DSi - Despicable Me Minion Mayhem - Carl_183
+    21300368: DS DSi - Despicable Me Minion Mayhem - Carl_184
+    21300370: DS DSi - Despicable Me Minion Mayhem - Carl_185
+    21300372: DS DSi - Despicable Me Minion Mayhem - Carl_186
+    21300374: DS DSi - Despicable Me Minion Mayhem - Carl_187
+    21300376: DS DSi - Despicable Me Minion Mayhem - Carl_188
+    21300378: DS DSi - Despicable Me Minion Mayhem - Carl_189
+    21300380: DS DSi - Despicable Me Minion Mayhem - Carl_190
+    21300382: DS DSi - Despicable Me Minion Mayhem - Carl_191
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 473
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9802ac35800c04cbea469c40f7c48672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 471
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990e1651ca52a4a048cfebc562278aae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 471
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9287f715ef314a1c8e4dba2a7055ebf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 471
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf4163489d794240bc6eeb1ac768c73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 471
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77688dbdc088546c9be5f370a2c3d236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 472
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3037800f0b2fe49c1ad3db90ead1e8c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_6
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 473
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc415c51628240e7887d436b645ce3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_7
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 473
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42dd644f303645c181cfc562cf477f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 473
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e7a186f2fca45c189091a8ffbbf07a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_9
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 473
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e6b635674b84850983de8797889a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 471
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc9b811f46894c5c9a7a41f23b1142d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 471
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b9a0aba84264e9b948f7cd1f4a7228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_12
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 472
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9158e9ee7b7a4413a7dd83c876690b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 472
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42e0bbe924f443f38d3b35e20506bc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_14
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 472
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c81a44895684b57bdb5773e3cf2e1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 473
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1b27bdb1ed74a288cdf36d21094716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 437
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcde856234e5e40f389e151f6ff768ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_17
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 434
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e7d0fa595e468b857f9c2fe0b0d86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_18
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 434
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455663a593e054ed189d5701a4a79f94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 435
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bb6686e393941e3a8f3eefa3c61b13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_20
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 435
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f3321500e13451cae2f7f6ba6854c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 436
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bad8c8f426944f3a19f87028f82039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 436
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6001413f91c740a39d09b4a76ee9004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 437
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef8a5e94a3594d0a86ce26d7edc9ccc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 437
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521f98ed862b0405ea87501ca899f2be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_25
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 435
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db19d4ffdb84addb96e92aabab2fd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 434
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fc991c425e8414890d6a5f751498b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_27
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 435
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27586d33ea98f468b88283c4b1909494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_28
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 435
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef084571f98c45a69d093331fecfad2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 436
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f353f4c3ad63941d58266a3ddee15ffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_30
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 437
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eb20623bb174999aeab702612e9dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_31
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 437
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bcc26d82bd745efbc8db5531e74e34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 401
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1fa8f0113054704b64b58d929f9a64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_33
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 401
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb5ed35887ad45fe9d1fd5957cc5bf3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_34
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 401
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8339a91e81c7d4f3c8d41b1e0de7d5f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_35
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 401
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bafb072333fd420fb5728a2d5243f2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 401
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94d22fff838d48baa27c6e2a43f1a15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_37
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 403
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4252c25f7030e49d19e2847f4a89a804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_38
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 404
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a1e8cbaf3b44dada2f1384da82a13d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 401
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c37201858a7f47b8934e2203c09d186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_40
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 401
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e280e76b949d4577a4edaa73962ce18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_41
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 401
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800bd57698d814f26bca1ef2d3fbed25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 401
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65c1748ac995491f85aa6f62ed9a821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 401
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647c0a1b7c10b457fbd067e1cfba1ad4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_44
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 401
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5284b08291f0d4d4bb1f135ff289cf30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_45
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 403
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ea5a8ade1e74a7d8213f40b67de842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_46
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 404
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d635e7c00c6741d099e6cf495183f2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_47
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 401
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f6e6763ebc04859a56adf65ecb0142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7832d9fb563ed4f8980b1e32291bb045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41026b2f852b4449cbc2773da5f0e887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_50
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8d648ed94964b62a37c3511a2a753b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019733d86da5c43559222342fb5588f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5887896a4ddd4443e95e797cf15c3197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_53
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8859f68edb14f483ea361f3017a9a5a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_54
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e699e8a819c244bea8a26939e932fb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebcaf2342e3e4358948a893663cb817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_56
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd07372ef867e49199cab7b0c53d4053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_57
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 365
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda0e4fd5a35142d6bba2eba15700b4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_58
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 365
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd73018ac0e1d43c4ba49d768c94ca71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_59
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739c7c42338ae456a8706e5e661bfcda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_60
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca192e825e96444b980f5ff448ce4c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_61
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e6248bbc52f424199f91c2ebd0229d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_62
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 365
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d44f2d3b73d4e85b9c83a3a741b2a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 367
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a4da3ee3e0041d98035a250cb7af11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_64
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 367
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1ab446c1ab64d628ec8ac37ec0db02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_65
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 366
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb101361b55ee4846b59d89dab8badd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_66
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 366
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf4b4d5d038645bdbc6fdc64dc188c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_67
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 367
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711ce1e344c5747b39c5d890d9f9dc4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_68
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 368
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ff64ebecc94a26a27cfbed7e1c9cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_69
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 368
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136c3469c0ab54897a3245f2b8d58261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_70
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 365
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51e65bea79354b04a714f11cc477c09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_71
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 367
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d80b48cef2474f7ca31423248b81e48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_72
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 367
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204c22e5661b240669d959edd479874f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_73
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 328
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848bd2cf65da7448dbceef68b1c3bf1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_74
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 328
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b953faee4a1b4cd59367f24129086da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_75
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 328
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a27d1a6ba4cd4920948d5bc61e47b06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_76
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 328
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9684651b91fb64f5aa3df56f90f76c23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_77
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 328
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7679c034971a478aa20ac735fb7fa79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_78
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 328
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bb1843440dd4655b4821fcdf6ed418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 294
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bf361c531214758a7acb292d1c8b82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_80
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 293
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6317cebca180f471a8de500316825afb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_81
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 293
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d8cd17897f44e2eacc2e9a6c47f0e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_82
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 291
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08a157bac81d4d1dae7ac4e294b6f76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_83
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 293
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cc6ba1e30214ea4bba0b5360b19a83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_84
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 293
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3f5ff49ade74cfea8085506b494005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_85
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 293
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20471069ac634de3942e44909bb00e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_86
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 294
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a9d10e5e20f419493d4033ba192df7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_87
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 295
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952ba8c81b62448c6be9c43774e13cf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 261
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421266e8a05304eeabcd41dd7e367559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_89
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 261
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358b279a8a4e3432ca630e55fa591a92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_90
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 261
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1eb0a9bbae94f119c13d8149a18eca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_91
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 261
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38158dfeb0fda4d31b1f99e6d678a0e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_92
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 261
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75844e75dc3e478b910602e7774a025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_93
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33f2ca4f99ae4bcfba409ab5d4c34d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_94
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 260
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46768d0eb1c4428a9e7df0b9d662a21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_95
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 261
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c54227a0ba344f2948decef80ff36b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_96
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 222
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9224b0239f8a34074a14e7f6d2955441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 222
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3587eaff7cc134a2c99c59102d1ab4d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_98
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 222
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f84bdd1403b4498a9ed16d2b3b89f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_99
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 222
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2486048687f14bf182fd4d4142f1c4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_100
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 221
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21ce4299bc346dc8a764293383e8f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_101
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 220
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f239ab8811acd4989afd53b5a25bf787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_102
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 185
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659986b11ad4c4c2ca0b68cf6c59c38d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_103
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 185
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac791ecbc0adc49359f488fc67152cf8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_104
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 185
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1228eb0d224bb4dcaace49edd5442f08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_105
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 185
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a0a85a648104f9abfa5ba8e3905620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_106
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 184
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7d0283f6a09402f8ec62df9ae435e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_107
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 185
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12988f2e09a645e5bb92d6d2cf40212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_108
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 185
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7663a6bb658204efeb473fadbfde191e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_109
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ff6de01e5fa4db1957f3f0beecd117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_110
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 148
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a736ff375034a31a213b0728f8e20d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_111
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 148
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fe07b471b934db4a2f39f01e4e0c1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_112
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 148
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3eb9cc2e8bf34c2baa07b0b4d1bce68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 148
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a92da081215945dfa01f57f861a68de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_114
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 148
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8407ae06547074db8bd10ed471f87a45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_115
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e16ab4f56fa646c39febe5acead12a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_116
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 115
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b19dabb739394d53bb769367b76fe76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_117
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 115
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9aad6f3ccda460cbe9f9f2fa31aac6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_118
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 115
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce41dbb83f754de28c0dedbbe3fb31c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_119
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 114
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5508652c24e94437dac032c7c68d7189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_120
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 113
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c9d1fb5984b4720be976fb766a3864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_121
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 77
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ccdd1d8b06433a88bfd94f8440a63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_122
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 75
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71830fe849b3b48b5a74d5b337b6e490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_123
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 74
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97af947534e8a45a29a16d22de46f9b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_124
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 75
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4a2b809d5f84cc4acf8866aafa211a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_125
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 75
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42467c6829b63486b8eba7ede4fd4ca6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_126
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 76
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a9246d83edc48219ca15bfd5e1478c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_127
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 76
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e290acc48d24357ac125db791595d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_128
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 77
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7d067fbb99546a396d262ef681a802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_129
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 77
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b44710108eb44fc93f93ab4abf144c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_130
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 77
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd557cf643a043cda6c66e54e9bbbc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 77
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9621a64b8c45d4923b5fa566d3c31e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_132
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 77
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af4ae6fdfe3e420cad83e4bec26aa8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_133
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 77
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3025105d6154e5d8174d528d65cb26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_134
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 77
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f118817a4d6f04a7f9d79f5925b8bfff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_135
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 77
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c8d4b2ea79244d6b4e9f040c16fe32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_136
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 77
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89493131181640e9939d83265f146ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_137
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 77
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd6507fd4af94f09a4600e65af9b9a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_138
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 77
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ab95e5c6ebb461890a15b980b0c33f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_139
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 77
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae45114e80d71442191773af136cfce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_140
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 75
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69e6dca42d24341b6c89bfc30eceb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_141
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 75
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f957f2311e74e8a94b7a2f1d8128c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_142
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 75
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c3ea0b7381b4557bb35c67435404e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_143
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 76
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daf22ab85f9a4384b7a7cfaf2b89701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_144
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 76
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaf045bfa91d4d52993a66505a4b316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_145
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 77
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e766b09e41c4201af81918394d5821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_146
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 43
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfa9445f22c34c3ca4c1a7a3422c46b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_147
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 43
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a189c5357c38f4350a12c3088de249fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_148
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4cff15882d64c58b299827897986e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_149
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 43
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13aef686f33041318bdadd088b3c1fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_150
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 44
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad47134b65ff45818e7266bfd543157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_151
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 43
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf27eb22f4946b5b666d083c75ebe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_152
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 43
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476b1a32e50174f348cfca64c80aa480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_153
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 40
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18516c004d68415a9cdfed8821653bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_154
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 39
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a883846e65a48448143b447a23559e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_155
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 42
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b222ef2267ae4acc95162dc7eb7e36d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_156
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 42
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f1135d2d8aa427fa000773f61c845a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_157
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 47
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa3cb28c5bdf4a6c9e67522aa97bef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_158
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 46
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57bce85c1b04b56ac6b9155db8bc85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_159
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 45
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd636c4d035848ae833bcf1245f5b8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_160
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 44
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cea1f9072cbc45e891480818daffb95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_161
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ac58edd14224a1eacaeddff670baa3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_162
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a3d6c329de64f7490fe5b585cd739e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_163
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c381d516c6b2643eabfdb793961a6780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_164
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354173cfda4014638b27a696830f6a8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_165
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 6
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465622b672e894713a7c8a498697d8b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_166
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 5
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b87763fe990441ddb2738df28c5a5a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_167
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 4
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fd69d088e1f46c79a5b880885128e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_168
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11dd88cb6cd63495994271c991874844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_169
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 5
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11a6ed9f6b3d4679b15f59b206e8b6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_170
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 4
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb13d985c64bb4d2e9aada198bdcffef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_171
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 15
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6c11ce61222449c8d4abae42ea12ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_172
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac33f4ead6b944468ba5471a7c3f48e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_173
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db30291e75fce4bc6abc2b2a74570f52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_174
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 18
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b92c8f64fb08405ba9330089f965841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_175
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 15
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e5173fbe55864e409f9b784e828ba2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_176
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 18
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011fd5875d3354d24a08ce22ea80b4f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_177
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 18
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881ca5099a448492096114d0aac7f3cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_178
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 18
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2f441868c8a491fa43f0748433b26f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_179
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e09287b72844f6eba6c0dd37e09ce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_180
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f71a61b271a64e4e81313236f750d69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_181
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 18
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5735ebfeac842f99dd1ab69201c3c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_182
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a41ab70b347438caec7488c43e3bf9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_183
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b86c9376338344e8bd5dff6e2b38a0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_184
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4146110cb1a4943338ff4ecaa9e90e76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_185
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 3
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceebb01767a6490c8e482c2e094a0bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_186
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 3
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9aec8a419b54a51a5736a744893641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_187
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a4109efcaf74306ac0460822d79191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_188
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f543fd910504f2aa3e4947f86b8179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_189
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abba2c15f3d944024a39a3f63132442a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_190
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 3
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287d721285fb24152a73a87f35ac8b3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Despicable Me Minion Mayhem - Carl_191
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 3
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd84f3f8a5e4f4b77a4632720967b3bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8da91d75d8a804d93894b270a61faa1c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
