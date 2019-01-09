@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD:nep_wars/Assets/Scripts.meta
 guid: 3bf0cfb6a8be64a4fa79d9a30ab2079e
+=======
+guid: 95b2959f14b3d4890ae2c62a5ccf7ebb
+>>>>>>> 6702249... Added a title screen.:nep_wars/Assets/Scripts.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
