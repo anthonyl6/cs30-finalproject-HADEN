@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 7e051f76cb12a428a971a97cb45f2273
+=======
+guid: 9d64a2fa1f2b34f9285c0308fe53ecfe
+>>>>>>> 6702249... Added a title screen.
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
