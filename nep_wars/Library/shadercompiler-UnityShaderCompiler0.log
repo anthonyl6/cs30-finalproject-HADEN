@@ -6,6 +6,7 @@ Cmd: compileSnippet
 <<<<<<< HEAD
 =======
 Cmd: initializeCompiler
+<<<<<<< HEAD
 Cmd: compileSnippet
 >>>>>>> 6702249... Added a title screen.
   api=14 type=0 insize=725 outsize=1751 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
@@ -16,11 +17,14 @@ Cmd: compileSnippet
 Cmd: compileSnippet
   api=14 type=1 insize=1341 outsize=916 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
 <<<<<<< HEAD
+=======
+>>>>>>> 141c44b... sliced sprites, edited some dimensions, other sprite sht i guess
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+<<<<<<< HEAD
 =======
   api=14 type=0 insize=4971 outsize=2521 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
 Cmd: compileSnippet
@@ -203,3 +207,5 @@ Cmd: initializeCompiler
 =======
 Cmd: initializeCompiler
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+>>>>>>> 141c44b... sliced sprites, edited some dimensions, other sprite sht i guess
