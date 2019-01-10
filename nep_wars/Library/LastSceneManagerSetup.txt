@@ -1,6 +1,7 @@
 sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Title Screen.unity
 =======
 - path: Assets/Scenes/Play Area.unity
@@ -8,5 +9,8 @@ sceneSetups:
 =======
 - path: Assets/Scenes/Play Area.unity
 >>>>>>> 0d1790d... Bullet Wiggle
+=======
+- path: Assets/Scenes/Login Screen.unity
+>>>>>>> c7afb5b... update files.
   isLoaded: 1
   isActive: 1
