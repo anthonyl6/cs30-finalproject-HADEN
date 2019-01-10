@@ -17,6 +17,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 3576dab... fixed again
     x: 181
@@ -49,6 +50,12 @@ MonoBehaviour:
     width: 2048
     height: 1044
 >>>>>>> 6702249... Added a title screen.
+=======
+    x: 220
+    y: 138
+    width: 1603
+    height: 978
+>>>>>>> ef920ed... adding hit effect sprites
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
@@ -70,27 +77,12 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-<<<<<<< HEAD
-    x: 716
+    x: 609
     y: 0
-<<<<<<< HEAD
-    width: 472
-    height: 487
-=======
-    width: 476
+    width: 583
     height: 561
-<<<<<<< HEAD
->>>>>>> a2ee12784e4ea65a17a4d84e85515835ad2bde89
-=======
-=======
-    x: 750
-    y: 0
-    width: 567
-    height: 551
->>>>>>> f086a0e... Movement
->>>>>>> 2569f0be2dabb7946b39fd3e7ddffad3715e7fdb
-  m_MinSize: {x: 204, y: 221}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -123,16 +115,15 @@ MonoBehaviour:
     y: 30
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef920ed... adding hit effect sprites
     width: 1603
     height: 928
-=======
-    width: 1776
-    height: 951
->>>>>>> f086a0e... Movement
-  m_MinSize: {x: 887, y: 492}
-  m_MaxSize: {x: 16012, y: 14042}
+  m_MinSize: {x: 879, y: 492}
+  m_MaxSize: {x: 16004, y: 14042}
   vertical: 0
-  controlID: 105
+  controlID: 85
 --- !u!114 &4
 =======
 =======
@@ -160,11 +151,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef920ed... adding hit effect sprites
     x: 1192
 =======
     x: 1633
 >>>>>>> 6702249... Added a title screen.
     y: 0
+<<<<<<< HEAD
     width: 415
 <<<<<<< HEAD
     height: 841
@@ -187,6 +182,13 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
+=======
+    width: 411
+    height: 928
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 15}
+>>>>>>> ef920ed... adding hit effect sprites
   m_Panes:
   - {fileID: 14}
   m_Selected: 0
@@ -220,6 +222,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 233
     height: 487
 =======
@@ -241,6 +244,13 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
+=======
+    width: 226
+    height: 561
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 16}
+>>>>>>> ef920ed... adding hit effect sprites
   m_Panes:
   - {fileID: 15}
   m_Selected: 0
@@ -272,6 +282,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 561
     width: 1192
     height: 367
@@ -285,6 +296,11 @@ MonoBehaviour:
     width: 1633
     height: 392
 >>>>>>> 6702249... Added a title screen.
+=======
+    y: 561
+    width: 1192
+    height: 367
+>>>>>>> ef920ed... adding hit effect sprites
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 13}
@@ -324,6 +340,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1612
     height: 891
   m_MinSize: {x: 950, y: 542}
@@ -340,6 +357,10 @@ MonoBehaviour:
     width: 2048
     height: 1044
 >>>>>>> 6702249... Added a title screen.
+=======
+    width: 1603
+    height: 978
+>>>>>>> ef920ed... adding hit effect sprites
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 =======
@@ -372,6 +393,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1603
 =======
     width: 1776
@@ -379,6 +401,9 @@ MonoBehaviour:
 =======
     width: 2048
 >>>>>>> 6702249... Added a title screen.
+=======
+    width: 1603
+>>>>>>> ef920ed... adding hit effect sprites
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -409,6 +434,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 958
     width: 1603
 =======
@@ -419,6 +445,10 @@ MonoBehaviour:
     y: 1024
     width: 2048
 >>>>>>> 6702249... Added a title screen.
+=======
+    y: 958
+    width: 1603
+>>>>>>> ef920ed... adding hit effect sprites
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -453,16 +483,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef920ed... adding hit effect sprites
     width: 1192
     height: 928
-=======
-    width: 1317
-    height: 951
->>>>>>> f086a0e... Movement
-  m_MinSize: {x: 610, y: 492}
-  m_MaxSize: {x: 12010, y: 14042}
+  m_MinSize: {x: 604, y: 492}
+  m_MaxSize: {x: 12004, y: 14042}
   vertical: 1
-  controlID: 106
+  controlID: 86
 --- !u!114 &11
 =======
     width: 1633
@@ -503,20 +532,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef920ed... adding hit effect sprites
     width: 1192
     height: 561
-=======
-    width: 1317
-    height: 551
->>>>>>> f086a0e... Movement
-  m_MinSize: {x: 610, y: 221}
-  m_MaxSize: {x: 12010, y: 4021}
+  m_MinSize: {x: 604, y: 221}
+  m_MaxSize: {x: 12004, y: 4021}
   vertical: 0
-<<<<<<< HEAD
-  controlID: 88
-=======
-  controlID: 107
->>>>>>> 2569f0be2dabb7946b39fd3e7ddffad3715e7fdb
+  controlID: 87
 --- !u!114 &12
 =======
     width: 1633
@@ -549,14 +573,15 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-    x: 227
-    y: 0
 <<<<<<< HEAD
-    width: 492
-    height: 487
+    x: 227
 =======
-    width: 489
+    x: 226
+>>>>>>> ef920ed... adding hit effect sprites
+    y: 0
+    width: 383
     height: 561
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> a2ee12784e4ea65a17a4d84e85515835ad2bde89
 =======
@@ -583,6 +608,10 @@ MonoBehaviour:
     height: 392
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
+=======
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> ef920ed... adding hit effect sprites
   m_ActualView: {fileID: 17}
 >>>>>>> 6ca7e8c... Added more buttons.
   m_Panes:
@@ -622,6 +651,7 @@ MonoBehaviour:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
   m_EditorHideFlags: 1
   m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -835,23 +865,65 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 1
   m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+=======
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> ef920ed... adding hit effect sprites
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MinSize: {x: 400, y: 100}
-  m_MaxSize: {x: 2048, y: 2048}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-    m_Text: Asset Store
-    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+    m_Text: Animator
+    m_Image: {fileID: 663490763026382308, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 468
-    y: 181
-    width: 973
-    height: 501
+    x: 448
+    y: 187
+    width: 345
+    height: 540
   m_PersistentViewDataDictionary: {fileID: 0}
+<<<<<<< HEAD
 --- !u!114 &17
+=======
+  m_ViewTransforms:
+    m_KeySerializationHelper:
+    - {fileID: 1107610919163802298, guid: 58ec6577d5b7b46c5a0c7491a1d74927, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 0.6053263
+      e01: 0
+      e02: 0
+      e03: 58.53755
+      e10: 0
+      e11: 0.6053263
+      e12: 0
+      e13: 254.73672
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 0}
+  m_BreadCrumbs: []
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 0
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &14
+>>>>>>> ef920ed... adding hit effect sprites
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -871,6 +943,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -901,6 +974,12 @@ MonoBehaviour:
     width: 1631
     height: 371
 >>>>>>> 6702249... Added a title screen.
+=======
+    x: 220
+    y: 748
+    width: 1190
+    height: 346
+>>>>>>> ef920ed... adding hit effect sprites
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -914,6 +993,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
     - Assets/Fonts/Title Screen
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -929,10 +1009,20 @@ MonoBehaviour:
 =======
   m_LastProjectPath: /Users/anthonyl6/Desktop/FinalProject/nep_wars
 >>>>>>> 6702249... Added a title screen.
+=======
+    - Assets/Scenes
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Scenes
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: /Users/jullianp1/Desktop/finalproject/nep_wars
+>>>>>>> ef920ed... adding hit effect sprites
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -954,20 +1044,25 @@ MonoBehaviour:
     m_LastClickedID: 13470
     m_ExpandedIDs: 000000008a290000ce2c000000ca9a3b
 >>>>>>> 6ca7e8c... Added more buttons.
+=======
+    m_SelectedIDs: c0290000
+    m_LastClickedID: 10688
+    m_ExpandedIDs: 0000000096290000f629000000ca9a3b
+>>>>>>> ef920ed... adding hit effect sprites
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Scenes
+      m_OriginalName: Scenes
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 10688
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 0}
     m_SearchString: 
@@ -981,7 +1076,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 000000008a290000ce2c000000ca9a3b
+=======
+    m_ExpandedIDs: 0000000096290000
+>>>>>>> ef920ed... adding hit effect sprites
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1010,6 +1109,7 @@ MonoBehaviour:
     m_LastClickedInstanceID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000280c0000fa0a0000
 =======
@@ -1020,6 +1120,10 @@ MonoBehaviour:
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c623000000000000
 >>>>>>> 6ca7e8c... Added more buttons.
+=======
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c623000000000000280c0000fa0a00008a2c0000
+>>>>>>> ef920ed... adding hit effect sprites
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1035,7 +1139,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 6}
+      m_ClientGUIView: {fileID: 0}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -1066,6 +1170,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1103,6 +1208,12 @@ MonoBehaviour:
     width: 1366
     height: 308
 >>>>>>> 6ca7e8c... Added more buttons.
+=======
+    x: 1414
+    y: 187
+    width: 409
+    height: 907
+>>>>>>> ef920ed... adding hit effect sprites
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &19
 MonoBehaviour:
@@ -1124,6 +1235,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1164,6 +1276,38 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
+=======
+    x: 220
+    y: 187
+    width: 224
+    height: 540
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_TreeViewState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 702e0000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 828af9ff688bf9ff7c8cf9ffc29efeff3a8bffff528effffea95ffff1ab1ffffc4b6ffff5ef6ffffcafbffff00000000742c0000a62e0000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: EventSystem
+      m_OriginalName: EventSystem
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: -90442
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 0
+      m_IsRenamingFilename: 0
+      m_ClientGUIView: {fileID: 5}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - Play Area
+  m_CurrenRootInstanceID: 0
+>>>>>>> ef920ed... adding hit effect sprites
   m_LockTracker:
     m_IsLocked: 0
 <<<<<<< HEAD
@@ -1188,6 +1332,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1221,10 +1366,20 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 0
+=======
+    x: 448
+    y: 187
+    width: 379
+    height: 540
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneLighting: 0
+  lastFramingTime: 3464.9989179372787
+>>>>>>> ef920ed... adding hit effect sprites
   m_2DMode: 1
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: -1.8513291, y: 2.7975416, z: -0.20510517}
@@ -1240,6 +1395,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
 >>>>>>> 6702249... Added a title screen.
+=======
+    m_Target: {x: -3.4337683, y: 3.2170203, z: 46.024925}
+    speed: 2
+    m_Value: {x: -3.4337683, y: 3.2170203, z: 46.024925}
+>>>>>>> ef920ed... adding hit effect sprites
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1273,6 +1433,7 @@ MonoBehaviour:
   m_Size:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 22.238815
     speed: 2
     m_Value: 22.238815
@@ -1286,12 +1447,17 @@ MonoBehaviour:
     speed: 2
     m_Value: 10
 >>>>>>> 6702249... Added a title screen.
+=======
+    m_Target: 14.296772
+    speed: 2
+    m_Value: 14.296772
+>>>>>>> ef920ed... adding hit effect sprites
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
-  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+  m_LastSceneViewRotation: {x: 0.02715848, y: -0.10387041, z: 0.0028373795, w: 0.99421597}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -1317,6 +1483,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1347,17 +1514,28 @@ MonoBehaviour:
     width: 1532
     height: 790
 >>>>>>> 6702249... Added a title screen.
+=======
+    x: 831
+    y: 187
+    width: 579
+    height: 540
+>>>>>>> ef920ed... adding hit effect sprites
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
+<<<<<<< HEAD
   m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+=======
+  m_SelectedSizes: 07000000000000000000000000000000000000000000000000000000000000000000000000000000
+>>>>>>> ef920ed... adding hit effect sprites
   m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_HBaseRangeMin: -118
@@ -1376,6 +1554,12 @@ MonoBehaviour:
     m_VBaseRangeMin: -386.5
     m_VBaseRangeMax: 386.5
 >>>>>>> 6702249... Added a title screen.
+=======
+    m_HBaseRangeMin: -480
+    m_HBaseRangeMax: 480
+    m_VBaseRangeMin: -270
+    m_VBaseRangeMax: 270
+>>>>>>> ef920ed... adding hit effect sprites
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1395,6 +1579,7 @@ MonoBehaviour:
       y: 17
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 472
       height: 523
     m_Scale: {x: 2, y: 2}
@@ -1411,12 +1596,19 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 766, y: 386.5}
 >>>>>>> 6702249... Added a title screen.
+=======
+      width: 579
+      height: 523
+    m_Scale: {x: 0.603125, y: 0.603125}
+    m_Translation: {x: 289.5, y: 261.5}
+>>>>>>> ef920ed... adding hit effect sprites
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       x: -118
@@ -1437,9 +1629,18 @@ MonoBehaviour:
 >>>>>>> 6702249... Added a title screen.
     m_MinimalGUI: 1
   m_defaultScale: 1
+=======
+      x: -480.00003
+      y: -433.57513
+      width: 960.00006
+      height: 867.15027
+    m_MinimalGUI: 1
+  m_defaultScale: 0.603125
+>>>>>>> ef920ed... adding hit effect sprites
   m_TargetTexture: {fileID: 0}
 <<<<<<< HEAD
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_LastWindowPixelSize: {x: 944, y: 1080}
 =======
@@ -1449,6 +1650,9 @@ MonoBehaviour:
   m_CurrentColorSpace: 1
   m_LastWindowPixelSize: {x: 1532, y: 790}
 >>>>>>> 6702249... Added a title screen.
+=======
+  m_LastWindowPixelSize: {x: 1158, y: 1080}
+>>>>>>> ef920ed... adding hit effect sprites
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -1473,10 +1677,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 8
     y: 718
     width: 1366
     height: 308
+=======
+    x: 290
+    y: 695
+    width: 1190
+    height: 346
+>>>>>>> ef920ed... adding hit effect sprites
   m_PersistentViewDataDictionary: {fileID: 0}
 =======
   m_PreviewResizer:

@@ -1,0 +1,1559 @@
+fileFormatVersion: 2
+guid: 81725e42e67b54e6289d233bab5c05ee
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: some_jus_effects_by_emerald18-d5vp1bv copy_0
+    21300002: some_jus_effects_by_emerald18-d5vp1bv copy_1
+    21300004: some_jus_effects_by_emerald18-d5vp1bv copy_2
+    21300006: some_jus_effects_by_emerald18-d5vp1bv copy_3
+    21300008: some_jus_effects_by_emerald18-d5vp1bv copy_4
+    21300010: some_jus_effects_by_emerald18-d5vp1bv copy_5
+    21300012: some_jus_effects_by_emerald18-d5vp1bv copy_6
+    21300014: some_jus_effects_by_emerald18-d5vp1bv copy_7
+    21300016: some_jus_effects_by_emerald18-d5vp1bv copy_8
+    21300018: some_jus_effects_by_emerald18-d5vp1bv copy_9
+    21300020: some_jus_effects_by_emerald18-d5vp1bv copy_10
+    21300022: some_jus_effects_by_emerald18-d5vp1bv copy_11
+    21300024: some_jus_effects_by_emerald18-d5vp1bv copy_12
+    21300026: some_jus_effects_by_emerald18-d5vp1bv copy_13
+    21300028: some_jus_effects_by_emerald18-d5vp1bv copy_14
+    21300030: some_jus_effects_by_emerald18-d5vp1bv copy_15
+    21300032: some_jus_effects_by_emerald18-d5vp1bv copy_16
+    21300034: some_jus_effects_by_emerald18-d5vp1bv copy_17
+    21300036: some_jus_effects_by_emerald18-d5vp1bv copy_18
+    21300038: some_jus_effects_by_emerald18-d5vp1bv copy_19
+    21300040: some_jus_effects_by_emerald18-d5vp1bv copy_20
+    21300042: some_jus_effects_by_emerald18-d5vp1bv copy_21
+    21300044: some_jus_effects_by_emerald18-d5vp1bv copy_22
+    21300046: some_jus_effects_by_emerald18-d5vp1bv copy_23
+    21300048: some_jus_effects_by_emerald18-d5vp1bv copy_24
+    21300050: some_jus_effects_by_emerald18-d5vp1bv copy_25
+    21300052: some_jus_effects_by_emerald18-d5vp1bv copy_26
+    21300054: some_jus_effects_by_emerald18-d5vp1bv copy_27
+    21300056: some_jus_effects_by_emerald18-d5vp1bv copy_28
+    21300058: some_jus_effects_by_emerald18-d5vp1bv copy_29
+    21300060: some_jus_effects_by_emerald18-d5vp1bv copy_30
+    21300062: some_jus_effects_by_emerald18-d5vp1bv copy_31
+    21300064: some_jus_effects_by_emerald18-d5vp1bv copy_32
+    21300066: some_jus_effects_by_emerald18-d5vp1bv copy_33
+    21300068: some_jus_effects_by_emerald18-d5vp1bv copy_34
+    21300070: some_jus_effects_by_emerald18-d5vp1bv copy_35
+    21300072: some_jus_effects_by_emerald18-d5vp1bv copy_36
+    21300074: some_jus_effects_by_emerald18-d5vp1bv copy_37
+    21300076: some_jus_effects_by_emerald18-d5vp1bv copy_38
+    21300078: some_jus_effects_by_emerald18-d5vp1bv copy_39
+    21300080: some_jus_effects_by_emerald18-d5vp1bv copy_40
+    21300082: some_jus_effects_by_emerald18-d5vp1bv copy_41
+    21300084: some_jus_effects_by_emerald18-d5vp1bv copy_42
+    21300086: some_jus_effects_by_emerald18-d5vp1bv copy_43
+    21300088: some_jus_effects_by_emerald18-d5vp1bv copy_44
+    21300090: some_jus_effects_by_emerald18-d5vp1bv copy_45
+    21300092: some_jus_effects_by_emerald18-d5vp1bv copy_46
+    21300094: some_jus_effects_by_emerald18-d5vp1bv copy_47
+    21300096: some_jus_effects_by_emerald18-d5vp1bv copy_48
+    21300098: some_jus_effects_by_emerald18-d5vp1bv copy_49
+    21300100: some_jus_effects_by_emerald18-d5vp1bv copy_50
+    21300102: some_jus_effects_by_emerald18-d5vp1bv copy_51
+    21300104: some_jus_effects_by_emerald18-d5vp1bv copy_52
+    21300106: some_jus_effects_by_emerald18-d5vp1bv copy_53
+    21300108: some_jus_effects_by_emerald18-d5vp1bv copy_54
+    21300110: some_jus_effects_by_emerald18-d5vp1bv copy_55
+    21300112: some_jus_effects_by_emerald18-d5vp1bv copy_56
+    21300114: some_jus_effects_by_emerald18-d5vp1bv copy_57
+    21300116: some_jus_effects_by_emerald18-d5vp1bv copy_58
+    21300118: some_jus_effects_by_emerald18-d5vp1bv copy_59
+    21300120: some_jus_effects_by_emerald18-d5vp1bv copy_60
+    21300122: some_jus_effects_by_emerald18-d5vp1bv copy_61
+    21300124: some_jus_effects_by_emerald18-d5vp1bv copy_62
+    21300126: some_jus_effects_by_emerald18-d5vp1bv copy_63
+    21300128: some_jus_effects_by_emerald18-d5vp1bv copy_64
+    21300130: some_jus_effects_by_emerald18-d5vp1bv copy_65
+    21300132: some_jus_effects_by_emerald18-d5vp1bv copy_66
+    21300134: some_jus_effects_by_emerald18-d5vp1bv copy_67
+    21300136: some_jus_effects_by_emerald18-d5vp1bv copy_68
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 423
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dd7fe34f1904ff4b62755c78e9a3f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 421
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b333d66eea13d47028d3ce8f940d4fe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 437
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bb3ea551a7540f99611c72bce67374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 422
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb1d8637229346b39049b6331d10261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 422
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17141d5304c034ed6be93da745b863b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_5
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 412
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b908f616a312a447683e23751b8f1b04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_6
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 414
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339bfa340c9d94547ae9211eee37c7cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 440
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fce915c4541a414a9f129409c6c3cfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 421
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3d1826b81094236b478a175c2662f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 315
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9496d0df6951e4e17ba90d8466588f3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_10
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 307
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d71d9e2ff8f4db4a2fe1049d0faac1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 314
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1a5704541934a949cc8e5a6663a91b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 372
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6238da0630948430d8b63a322b458e4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 331
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a001d120b954ea7b9c283fd45ffb6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 325
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fc61038b354483d92e96640cfe172a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 322
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d746361cb370434e988f303ad4eee9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 323
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53c450fcf8f545128cdddf5da9acc7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_17
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 322
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ff3ffd59b25436f863b1d0b83217e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_18
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 307
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5cf0697c4904431bb51b2bad15d2a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 278
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182cb1e037cfd407d9a611435ec1cb9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 255
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2877f9a80074ff18c925c884cd1025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 234
+        width: 9
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b01f79310c84398a3c206e6a257839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_22
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 258
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9f0f1cd916e405692acbd29b88db65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 264
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7143f83345a444ff2a9416e2be74a42d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_24
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 232
+        width: 13
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67b080971c8f4f43b15bf84d7af051a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10719c492b864ad6b56908c25017f48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 236
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57322c86afcc94fbb948ec6d425ee91e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_27
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8793b0edfea41788ff9f73770c7356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 266
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85bbdfe16a774a769b31552bd2d8039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_29
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 268
+        width: 32
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708cb8839c2ce4a9cb52d8bb15e7ed83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_30
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 234
+        width: 9
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c75023e223c456eb8133a73a4e6f33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_31
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 234
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3566c4aa6b33406181f96c73ba88c74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_32
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 232
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d83d10dca4143edb597821e1ac7239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 235
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404ebe1a401b64c5ebd0009a79815a30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 184
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9ad50d5c4914f98adc59e34ecb9a84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_35
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 186
+        width: 48
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825650bf84ef94d779de1f10b4825d0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 186
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e3c6a3d741f4b7496f03036fd8031f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_37
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 177
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12982f83d02444154824fd6ff70e2d24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_38
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 161
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618b6cb320aaf447a8cdd4b738fbed05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_39
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 161
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74873d75e98ff4dd7b2e97e82eae8a44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_40
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 152
+        width: 12
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d172915a55a4552821e5ae2fd77bf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_41
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 184
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc7b4e52af5748499cef1cb66922209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_42
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 152
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b2434820492497f9b02a8ccb779165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_43
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 109
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e6f3340e1544c36a627a3055451212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_44
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 107
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca60a15fa525848ddbbca4e4fadec854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 107
+        width: 64
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c90c4daaac3a4b33bc7dd8a2f3f2fa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_46
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 109
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7386e20b8c74d4efd919b4214ee26ee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_47
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 72
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488918abf4da245699a14df4a6b7b6b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_48
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 99
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13887f763596c40eeb989eaa18b6c57c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_49
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 110
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a68e5ba5e8ec4e82a73f447b3ad2621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_50
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 72
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01cd1e5a167d4161bb7a8496eb52c84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 25
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524594bd07b4d4c18bb491951fbd0e77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_52
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 20
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe773c12f54984f70ae023c290ead060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_53
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 15
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa4892fdb6bc48239c2fec042e42611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 19
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d28a309114446158f00c955f6bdc20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_55
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b831b4ea2b64329b2b5f3d8f4b4810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 13
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2286baf278ffe4f63b2864af7bb4602d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_57
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 11
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9114a36731144c3a8f1e555a2fdcb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_58
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 10
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d218d5e67d694edbbfbe2ef2cd44720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_59
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 44
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b20f7b50a924c0393740db1aae066a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_60
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 15
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f942ffc69d34cf1bbd8c2804af6f1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_61
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 52
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8702c5a2273f94341ba2f68635b0980a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_62
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 44
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587b29d77c06247cf8b7e179a3571419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_63
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6413de60fc71d41fabe0f3742f02488e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_64
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 19
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36822b01f29dc41e09f0c23bccf2f99e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_65
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 22
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e3f630aa0d84f8cac8f028677f5323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_66
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8028797a0b941ab99eb7ada562b6bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_67
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac3754545f9d43b48a83f68666392d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_jus_effects_by_emerald18-d5vp1bv copy_68
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 12
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc92383cada74961b916a8482671c98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2b0c4438f43aa48abb93ddf98ec174a1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

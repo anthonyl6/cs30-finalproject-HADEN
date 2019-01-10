@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Title Screen.unity
+=======
+- path: Assets/Scenes/Play Area.unity
+>>>>>>> ef920ed... adding hit effect sprites
   isLoaded: 1
   isActive: 1

@@ -1,6 +1,7 @@
 Base path: /Applications/Unity/Unity.app/Contents
 Cmd: initializeCompiler
 <<<<<<< HEAD
+<<<<<<< HEAD
 Cmd: compileSnippet
 <<<<<<< HEAD
 =======
@@ -199,3 +200,6 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 >>>>>>> 5da426b... Fixed resolution of the title screen.
+=======
+Cmd: initializeCompiler
+>>>>>>> ef920ed... adding hit effect sprites
