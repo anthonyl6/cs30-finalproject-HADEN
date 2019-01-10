@@ -4,16 +4,17 @@ using UnityEngine;
 
 public class Shoot : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
+	ObjectPool objectPool;
+
+	private void Start()
+	{
+		objectPool = ObjectPool.Instance;
 	}
-	
-	// Update is called once per frame
-	void Update () {
+
+	void FixedUpdate () {
 
 		if(Input.GetKeyDown(KeyCode.G)) {
-			ObjectPool.instance.GetObjectForType("bullet_placeholder", false);
+			ObjectPool.Instance.SpawnFromPool("bullet_placeholder", transform.position, Quaternion.identity);
 		}
 			
 	}
