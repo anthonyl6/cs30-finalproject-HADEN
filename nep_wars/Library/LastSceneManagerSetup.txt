@@ -1,8 +1,12 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Title Screen.unity
 =======
 - path: Assets/Scenes/Play Area.unity
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+- path: Assets/Scenes/Play Area.unity
+>>>>>>> 0d1790d... Bullet Wiggle
   isLoaded: 1
   isActive: 1
