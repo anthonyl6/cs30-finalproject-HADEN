@@ -5,6 +5,7 @@ Cmd: initializeCompiler
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Cmd: compileSnippet
 <<<<<<< HEAD
 =======
@@ -46,6 +47,8 @@ Cmd: compileSnippet
 =======
 =======
 >>>>>>> 1a64d57... Fixed resolution again.
+=======
+>>>>>>> d3aa740... Added username script.
 Cmd: preprocess
   insize=3466 outsize=1210 ok=1
 Cmd: preprocess
@@ -71,6 +74,7 @@ Cmd: preprocess
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 5da426b... Fixed resolution of the title screen.
@@ -153,3 +157,5 @@ Cmd: initializeCompiler
 >>>>>>> 0004c8f... Got login page working everything okay xd.
 =======
 >>>>>>> 5cf7a46... yeet
+=======
+>>>>>>> d3aa740... Added username script.
