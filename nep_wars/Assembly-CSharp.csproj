@@ -59,8 +59,14 @@
      <Compile Include="Assets\Scripts\ObjectPool.cs" />
      <Compile Include="Assets\Scripts\Register.cs" />
      <Compile Include="Assets\Scripts\Shoot.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets\Scripts\SoundEffect.cs" />
+<<<<<<< HEAD
      <Compile Include="Assets\Scripts\usernamedisplay.cs" />
+=======
+=======
+>>>>>>> 3beee46... rewriting object pool
+>>>>>>> cb
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
@@ -124,8 +130,9 @@
 >>>>>>> 85f4303... added chicken sprite lol
  <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
 =======
+=======
+>>>>>>> 3beee46... rewriting object pool
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
->>>>>>> 8bc4512... object pooler
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -134,6 +141,7 @@
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
+<<<<<<< HEAD
 <<<<<<< HEAD
  <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
 <<<<<<< HEAD
@@ -158,7 +166,12 @@
 =======
 >>>>>>> 85f4303... added chicken sprite lol
 =======
+<<<<<<< HEAD
 >>>>>>> AL
+=======
+ <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> 3beee46... rewriting object pool
+>>>>>>> cb
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -383,15 +396,22 @@
 <<<<<<< HEAD
 >>>>>>> 1a64d57... Fixed resolution again.
 =======
+=======
+>>>>>>> 3beee46... rewriting object pool
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+<<<<<<< HEAD
 >>>>>>> 8bc4512... object pooler
 =======
 >>>>>>> 85f4303... added chicken sprite lol
 =======
+<<<<<<< HEAD
 >>>>>>> AL
+=======
+>>>>>>> 3beee46... rewriting object pool
+>>>>>>> cb
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>

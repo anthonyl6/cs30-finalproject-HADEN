@@ -38,7 +38,11 @@ Transform:
   m_GameObject: {fileID: 1721769014471080}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: -6.9387503, y: -2.3935046, z: 345}
+=======
+  m_LocalPosition: {x: -5.010661, y: -2.0262494, z: 345}
+>>>>>>> 3beee46... rewriting object pool
   m_LocalScale: {x: 8.867059, y: 8.867059, z: 8.867059}
 =======
   m_LocalPosition: {x: -5.792489, y: -2.318029, z: 345}
