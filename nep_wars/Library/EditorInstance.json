@@ -1,6 +1,7 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"process_id" : 1111,
 =======
 	"process_id" : 665,
@@ -8,5 +9,8 @@
 =======
 	"process_id" : 9830,
 >>>>>>> 1a64d57... Fixed resolution again.
+=======
+	"process_id" : 2781,
+>>>>>>> 5cf7a46... yeet
 	"version" : "2018.2.5f1"
 }
