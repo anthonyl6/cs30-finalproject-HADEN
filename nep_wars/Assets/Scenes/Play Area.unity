@@ -190,13 +190,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1001 &802675707
+=======
+--- !u!1001 &867056386
+>>>>>>> 0d1790d... Bullet Wiggle
 Prefab:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
     - target: {fileID: 4799407988250234, guid: 2138dc76016904c4eb2bc5ccc23bb656, type: 2}
       propertyPath: m_LocalPosition.x
       value: 2.3166
@@ -401,4 +406,84 @@ Prefab:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5e529fd80905f43ffb2d6152fae51632, type: 2}
+=======
+    - target: {fileID: 114520486997136718, guid: 7d316b0c1be0d427ebe83649bbdbb9e6,
+        type: 2}
+      propertyPath: objectPrefabs.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114520486997136718, guid: 7d316b0c1be0d427ebe83649bbdbb9e6,
+        type: 2}
+      propertyPath: amountToBuffer.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718872626462804, guid: 7d316b0c1be0d427ebe83649bbdbb9e6, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: -5.792489
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718872626462804, guid: 7d316b0c1be0d427ebe83649bbdbb9e6, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: -2.318029
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718872626462804, guid: 7d316b0c1be0d427ebe83649bbdbb9e6, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 345
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718872626462804, guid: 7d316b0c1be0d427ebe83649bbdbb9e6, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718872626462804, guid: 7d316b0c1be0d427ebe83649bbdbb9e6, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718872626462804, guid: 7d316b0c1be0d427ebe83649bbdbb9e6, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718872626462804, guid: 7d316b0c1be0d427ebe83649bbdbb9e6, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4718872626462804, guid: 7d316b0c1be0d427ebe83649bbdbb9e6, type: 2}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114520486997136718, guid: 7d316b0c1be0d427ebe83649bbdbb9e6,
+        type: 2}
+      propertyPath: defaultBufferAmount
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 114520486997136718, guid: 7d316b0c1be0d427ebe83649bbdbb9e6,
+        type: 2}
+      propertyPath: amountToBuffer.Array.data[0]
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 114520486997136718, guid: 7d316b0c1be0d427ebe83649bbdbb9e6,
+        type: 2}
+      propertyPath: objectPrefabs.Array.data[1]
+      value: 
+      objectReference: {fileID: 1007875548525550, guid: 461c51bd15e8e4ccb96cf266ded6f86c,
+        type: 2}
+    - target: {fileID: 114520486997136718, guid: 7d316b0c1be0d427ebe83649bbdbb9e6,
+        type: 2}
+      propertyPath: objectPrefabs.Array.data[2]
+      value: 
+      objectReference: {fileID: 1007875548525550, guid: 461c51bd15e8e4ccb96cf266ded6f86c,
+        type: 2}
+    - target: {fileID: 114520486997136718, guid: 7d316b0c1be0d427ebe83649bbdbb9e6,
+        type: 2}
+      propertyPath: objectPrefabs.Array.data[3]
+      value: 
+      objectReference: {fileID: 1007875548525550, guid: 461c51bd15e8e4ccb96cf266ded6f86c,
+        type: 2}
+    - target: {fileID: 114520486997136718, guid: 7d316b0c1be0d427ebe83649bbdbb9e6,
+        type: 2}
+      propertyPath: objectPrefabs.Array.data[4]
+      value: 
+      objectReference: {fileID: 1007875548525550, guid: 461c51bd15e8e4ccb96cf266ded6f86c,
+        type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d316b0c1be0d427ebe83649bbdbb9e6, type: 2}
+>>>>>>> 0d1790d... Bullet Wiggle
   m_IsPrefabAsset: 0

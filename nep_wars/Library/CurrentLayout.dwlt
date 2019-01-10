@@ -18,6 +18,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 3576dab... fixed again
     x: 181
@@ -36,10 +37,13 @@ MonoBehaviour:
 >>>>>>> a2ee12784e4ea65a17a4d84e85515835ad2bde89
 =======
 =======
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
     x: 228
     y: 86
     width: 1776
     height: 1001
+<<<<<<< HEAD
 >>>>>>> f086a0e... Movement
 >>>>>>> 2569f0be2dabb7946b39fd3e7ddffad3715e7fdb
 =======
@@ -60,6 +64,12 @@ MonoBehaviour:
   m_Title: 
   m_RootView: {fileID: 2}
   m_MinSize: {x: 950, y: 542}
+=======
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 7}
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> 0d1790d... Bullet Wiggle
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -77,12 +87,21 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 609
     y: 0
     width: 583
     height: 561
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+    x: 750
+    y: 0
+    width: 567
+    height: 551
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+>>>>>>> 0d1790d... Bullet Wiggle
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -116,6 +135,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef920ed... adding hit effect sprites
     width: 1603
@@ -124,6 +144,14 @@ MonoBehaviour:
   m_MaxSize: {x: 16004, y: 14042}
   vertical: 0
   controlID: 85
+=======
+    width: 1776
+    height: 951
+  m_MinSize: {x: 712, y: 492}
+  m_MaxSize: {x: 16012, y: 14042}
+  vertical: 0
+  controlID: 62
+>>>>>>> 0d1790d... Bullet Wiggle
 --- !u!114 &4
 =======
 =======
@@ -152,6 +180,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef920ed... adding hit effect sprites
     x: 1192
@@ -170,10 +199,13 @@ MonoBehaviour:
 >>>>>>> a2ee12784e4ea65a17a4d84e85515835ad2bde89
 =======
 =======
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
     x: 1317
     y: 0
     width: 459
     height: 951
+<<<<<<< HEAD
 >>>>>>> f086a0e... Movement
 >>>>>>> 2569f0be2dabb7946b39fd3e7ddffad3715e7fdb
 =======
@@ -192,6 +224,15 @@ MonoBehaviour:
   m_Panes:
   - {fileID: 14}
   m_Selected: 0
+=======
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 19}
+  m_Panes:
+  - {fileID: 15}
+  - {fileID: 19}
+  m_Selected: 1
+>>>>>>> 0d1790d... Bullet Wiggle
   m_LastSelected: 0
 =======
     x: 0
@@ -223,6 +264,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 233
     height: 487
 =======
@@ -241,6 +283,10 @@ MonoBehaviour:
     width: 404
     height: 602
 >>>>>>> 6702249... Added a title screen.
+=======
+    width: 234
+    height: 551
+>>>>>>> 0d1790d... Bullet Wiggle
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
@@ -283,6 +329,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 561
     width: 1192
     height: 367
@@ -301,10 +348,16 @@ MonoBehaviour:
     width: 1192
     height: 367
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+    y: 551
+    width: 1317
+    height: 400
+>>>>>>> 0d1790d... Bullet Wiggle
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 13}
   m_Panes:
+<<<<<<< HEAD
   - {fileID: 13}
   - {fileID: 18}
   m_Selected: 0
@@ -319,6 +372,12 @@ MonoBehaviour:
   controlID: 11379
 >>>>>>> 6ca7e8c... Added more buttons.
 --- !u!114 &6
+=======
+  - {fileID: 14}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &7
+>>>>>>> 0d1790d... Bullet Wiggle
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -336,6 +395,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -361,6 +421,10 @@ MonoBehaviour:
     width: 1603
     height: 978
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+    width: 1776
+    height: 1001
+>>>>>>> 0d1790d... Bullet Wiggle
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 =======
@@ -394,6 +458,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1603
 =======
     width: 1776
@@ -404,6 +469,9 @@ MonoBehaviour:
 =======
     width: 1603
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+    width: 1776
+>>>>>>> 0d1790d... Bullet Wiggle
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -435,6 +503,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 958
     width: 1603
 =======
@@ -449,6 +518,10 @@ MonoBehaviour:
     y: 958
     width: 1603
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+    y: 981
+    width: 1776
+>>>>>>> 0d1790d... Bullet Wiggle
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -484,6 +557,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef920ed... adding hit effect sprites
     width: 1192
@@ -492,6 +566,14 @@ MonoBehaviour:
   m_MaxSize: {x: 12004, y: 14042}
   vertical: 1
   controlID: 86
+=======
+    width: 1317
+    height: 951
+  m_MinSize: {x: 610, y: 492}
+  m_MaxSize: {x: 12010, y: 14042}
+  vertical: 1
+  controlID: 63
+>>>>>>> 0d1790d... Bullet Wiggle
 --- !u!114 &11
 =======
     width: 1633
@@ -529,6 +611,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1038
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -619,6 +702,14 @@ MonoBehaviour:
   - {fileID: 18}
   m_Selected: 0
   m_LastSelected: 0
+=======
+    width: 1317
+    height: 551
+  m_MinSize: {x: 610, y: 221}
+  m_MaxSize: {x: 12010, y: 4021}
+  vertical: 0
+  controlID: 64
+>>>>>>> 0d1790d... Bullet Wiggle
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -797,6 +888,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 204
     y: 94
     width: 832
@@ -857,6 +949,21 @@ MonoBehaviour:
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
 --- !u!114 &16
+=======
+    x: 234
+    y: 0
+    width: 516
+    height: 551
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  - {fileID: 13}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &13
+>>>>>>> 0d1790d... Bullet Wiggle
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -947,6 +1054,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 181
     y: 627
     width: 1195
@@ -962,10 +1070,13 @@ MonoBehaviour:
 >>>>>>> a2ee12784e4ea65a17a4d84e85515835ad2bde89
 =======
 =======
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
     x: 228
     y: 686
     width: 1315
     height: 379
+<<<<<<< HEAD
 >>>>>>> f086a0e... Movement
 >>>>>>> 2569f0be2dabb7946b39fd3e7ddffad3715e7fdb
 =======
@@ -980,6 +1091,8 @@ MonoBehaviour:
     width: 1190
     height: 346
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter: 
@@ -993,6 +1106,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< HEAD
     - Assets/Fonts/Title Screen
   m_ViewMode: 1
@@ -1018,10 +1132,20 @@ MonoBehaviour:
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/jullianp1/Desktop/finalproject/nep_wars
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+    - Assets/sprite assets
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/sprite assets
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: /Users/czedrickb1/Desktop/nepwars/nep_wars
+>>>>>>> 0d1790d... Bullet Wiggle
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1053,13 +1177,26 @@ MonoBehaviour:
       m_UserAcceptedRename: 0
       m_Name: Scenes
       m_OriginalName: Scenes
+=======
+    m_SelectedIDs: 462a0000
+    m_LastClickedID: 10822
+    m_ExpandedIDs: 00000000e829000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: Scripts
+      m_OriginalName: Scripts
+>>>>>>> 0d1790d... Bullet Wiggle
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
+<<<<<<< HEAD
       m_UserData: 10688
+=======
+      m_UserData: 11478
+>>>>>>> 0d1790d... Bullet Wiggle
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -1077,10 +1214,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 000000008a290000ce2c000000ca9a3b
 =======
     m_ExpandedIDs: 0000000096290000
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+    m_ExpandedIDs: 00000000e8290000
+>>>>>>> 0d1790d... Bullet Wiggle
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1110,7 +1251,11 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
+=======
+    m_HadKeyboardFocusLastEvent: 1
+>>>>>>> 0d1790d... Bullet Wiggle
     m_ExpandedInstanceIDs: c623000000000000280c0000fa0a0000
 =======
     m_HadKeyboardFocusLastEvent: 1
@@ -1175,6 +1320,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1380
     y: 140
     width: 413
@@ -1190,10 +1336,13 @@ MonoBehaviour:
 >>>>>>> a2ee12784e4ea65a17a4d84e85515835ad2bde89
 =======
 =======
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
     x: 1547
     y: 135
     width: 457
     height: 930
+<<<<<<< HEAD
 >>>>>>> f086a0e... Movement
 >>>>>>> 2569f0be2dabb7946b39fd3e7ddffad3715e7fdb
 =======
@@ -1214,6 +1363,8 @@ MonoBehaviour:
     width: 409
     height: 907
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &19
 MonoBehaviour:
@@ -1240,6 +1391,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 181
     y: 140
     width: 231
@@ -1255,10 +1407,13 @@ MonoBehaviour:
 >>>>>>> a2ee12784e4ea65a17a4d84e85515835ad2bde89
 =======
 =======
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
     x: 228
     y: 135
     width: 232
     height: 530
+<<<<<<< HEAD
 >>>>>>> f086a0e... Movement
 >>>>>>> 2569f0be2dabb7946b39fd3e7ddffad3715e7fdb
 =======
@@ -1281,12 +1436,18 @@ MonoBehaviour:
     y: 187
     width: 224
     height: 540
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 702e0000
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 828af9ff688bf9ff7c8cf9ffc29efeff3a8bffff528effffea95ffff1ab1ffffc4b6ffff5ef6ffffcafbffff00000000742c0000a62e0000
+=======
+    m_ExpandedIDs: aacafeff7acbfeff78ccfeffcef1ffffeef4ffffc2fbffff00000000
+>>>>>>> 0d1790d... Bullet Wiggle
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: EventSystem
@@ -1336,6 +1497,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 416
     y: 140
     width: 488
@@ -1351,10 +1513,13 @@ MonoBehaviour:
 >>>>>>> a2ee12784e4ea65a17a4d84e85515835ad2bde89
 =======
 =======
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
     x: 464
     y: 135
     width: 512
     height: 530
+<<<<<<< HEAD
 >>>>>>> f086a0e... Movement
 >>>>>>> 2569f0be2dabb7946b39fd3e7ddffad3715e7fdb
 =======
@@ -1363,6 +1528,8 @@ MonoBehaviour:
     width: 1225
     height: 581
 >>>>>>> 6702249... Added a title screen.
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
   lastFramingTime: 0
@@ -1379,6 +1546,7 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1400,6 +1568,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -3.4337683, y: 3.2170203, z: 46.024925}
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+    m_Target: {x: -0.07356578, y: -1.2297264, z: -0.62899894}
+    speed: 2
+    m_Value: {x: -0.07356578, y: -1.2297264, z: -0.62899894}
+>>>>>>> 0d1790d... Bullet Wiggle
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1434,6 +1607,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 22.238815
     speed: 2
     m_Value: 22.238815
@@ -1452,12 +1626,21 @@ MonoBehaviour:
     speed: 2
     m_Value: 14.296772
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+    m_Target: 15.466361
+    speed: 2
+    m_Value: 15.466361
+>>>>>>> 0d1790d... Bullet Wiggle
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
+<<<<<<< HEAD
   m_LastSceneViewRotation: {x: 0.02715848, y: -0.10387041, z: 0.0028373795, w: 0.99421597}
+=======
+  m_LastSceneViewRotation: {x: 0.08717229, y: -0.89959055, z: 0.21045254, w: 0.3726226}
+>>>>>>> 0d1790d... Bullet Wiggle
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -1487,6 +1670,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 908
     y: 140
     width: 468
@@ -1502,10 +1686,13 @@ MonoBehaviour:
 >>>>>>> a2ee12784e4ea65a17a4d84e85515835ad2bde89
 =======
 =======
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
     x: 980
     y: 135
     width: 563
     height: 530
+<<<<<<< HEAD
 >>>>>>> f086a0e... Movement
 >>>>>>> 2569f0be2dabb7946b39fd3e7ddffad3715e7fdb
 =======
@@ -1520,21 +1707,28 @@ MonoBehaviour:
     width: 579
     height: 540
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 =======
   m_SelectedSizes: 07000000000000000000000000000000000000000000000000000000000000000000000000000000
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+  m_SelectedSizes: 07000000000000000000000000000000000000000000000000000000000000000000000000000000
+>>>>>>> 0d1790d... Bullet Wiggle
   m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1555,11 +1749,16 @@ MonoBehaviour:
     m_VBaseRangeMax: 386.5
 >>>>>>> 6702249... Added a title screen.
 =======
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
     m_HBaseRangeMin: -480
     m_HBaseRangeMax: 480
     m_VBaseRangeMin: -270
     m_VBaseRangeMax: 270
+<<<<<<< HEAD
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1580,15 +1779,19 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       width: 472
       height: 523
     m_Scale: {x: 2, y: 2}
     m_Translation: {x: 236, y: 261.5}
 =======
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
       width: 563
       height: 513
-    m_Scale: {x: 2, y: 2}
+    m_Scale: {x: 0.5864583, y: 0.5864583}
     m_Translation: {x: 281.5, y: 256.5}
+<<<<<<< HEAD
 >>>>>>> f086a0e... Movement
 =======
       width: 1532
@@ -1602,12 +1805,15 @@ MonoBehaviour:
     m_Scale: {x: 0.603125, y: 0.603125}
     m_Translation: {x: 289.5, y: 261.5}
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+>>>>>>> 0d1790d... Bullet Wiggle
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1637,9 +1843,18 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 0.603125
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+      x: -480
+      y: -437.37125
+      width: 960
+      height: 874.7425
+    m_MinimalGUI: 1
+  m_defaultScale: 0.5864583
+>>>>>>> 0d1790d... Bullet Wiggle
   m_TargetTexture: {fileID: 0}
 <<<<<<< HEAD
   m_CurrentColorSpace: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_LastWindowPixelSize: {x: 944, y: 1080}
@@ -1653,6 +1868,9 @@ MonoBehaviour:
 =======
   m_LastWindowPixelSize: {x: 1158, y: 1080}
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+  m_LastWindowPixelSize: {x: 1126, y: 1060}
+>>>>>>> 0d1790d... Bullet Wiggle
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -1678,6 +1896,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 8
     y: 718
     width: 1366
@@ -1688,6 +1907,12 @@ MonoBehaviour:
     width: 1190
     height: 346
 >>>>>>> ef920ed... adding hit effect sprites
+=======
+    x: 1547
+    y: 135
+    width: 457
+    height: 930
+>>>>>>> 0d1790d... Bullet Wiggle
   m_PersistentViewDataDictionary: {fileID: 0}
 =======
   m_PreviewResizer:
