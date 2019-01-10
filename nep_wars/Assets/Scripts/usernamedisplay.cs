@@ -7,12 +7,12 @@ public class usernamedisplay : MonoBehaviour {
 
 	//cached references
 	Login login;
-	TextMeshProUGUI myTextMeshProUGUI;
+	TMP_Text myTextMeshProUGUI;
 
 	// Use this for initialization
 	void Start () {
 		login = FindObjectOfType<Login>();
-		myTextMeshProUGUI = GetComponent<TextMeshProUGUI>().text;
+		myTextMeshProUGUI = GetComponent<TMP_Text>().text;
 		myTextMeshProUGUI = login.UsernameDisplay();
 	}
 	
