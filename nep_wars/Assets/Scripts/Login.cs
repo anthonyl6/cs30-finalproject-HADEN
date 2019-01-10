@@ -76,6 +76,8 @@ public class Login : MonoBehaviour {
 			notificationText.color = Color.red;
 		}
 		if(UN == true && PW == true) {
+			UsernameDisplay();
+			
 			username.text = "";
 			password.text = "";
 			
@@ -94,6 +96,11 @@ public class Login : MonoBehaviour {
 	public IEnumerator wait() {
 		yield return new WaitForSeconds(2);
 		SceneManager.LoadScene("Title Screen");
+	}
+
+	public string UsernameDisplay()
+	{
+		return username.text;
 	}
 
 	// Update is called once per frame

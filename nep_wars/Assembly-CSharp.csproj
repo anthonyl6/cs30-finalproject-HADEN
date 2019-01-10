@@ -60,6 +60,7 @@
      <Compile Include="Assets\Scripts\Register.cs" />
      <Compile Include="Assets\Scripts\Shoot.cs" />
      <Compile Include="Assets\Scripts\SoundEffect.cs" />
+     <Compile Include="Assets\Scripts\usernamedisplay.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
@@ -118,6 +119,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 85f4303... added chicken sprite lol
  <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
@@ -136,6 +138,8 @@
  <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> AL
  <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
@@ -146,12 +150,15 @@
  </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+<<<<<<< HEAD
 >>>>>>> 1a64d57... Fixed resolution again.
 =======
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
 >>>>>>> 8bc4512... object pooler
 =======
 >>>>>>> 85f4303... added chicken sprite lol
+=======
+>>>>>>> AL
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -358,6 +365,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 85f4303... added chicken sprite lol
  <HintPath>/Users/jullianp1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
@@ -366,10 +374,13 @@
  <HintPath>/Users/jullianp1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> AL
  <HintPath>/Users/anthonyl6/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/anthonyl6/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+<<<<<<< HEAD
 >>>>>>> 1a64d57... Fixed resolution again.
 =======
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
@@ -379,6 +390,8 @@
 >>>>>>> 8bc4512... object pooler
 =======
 >>>>>>> 85f4303... added chicken sprite lol
+=======
+>>>>>>> AL
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>

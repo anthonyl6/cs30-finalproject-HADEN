@@ -4,6 +4,7 @@ sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Title Screen.unity
 =======
 - path: Assets/Scenes/Play Area.unity
@@ -20,5 +21,8 @@ sceneSetups:
 =======
 - path: Assets/Scenes/Play Area.unity
 >>>>>>> 79dfa6a... yeet 2
+=======
+- path: Assets/Scenes/Title Screen.unity
+>>>>>>> 84e28f3... trying to fix tmpro.
   isLoaded: 1
   isActive: 1
