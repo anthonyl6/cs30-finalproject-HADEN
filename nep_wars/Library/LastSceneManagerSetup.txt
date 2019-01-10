@@ -3,6 +3,7 @@ sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Title Screen.unity
 =======
 - path: Assets/Scenes/Play Area.unity
@@ -16,5 +17,8 @@ sceneSetups:
 =======
 - path: Assets/Scenes/Login Page.unity
 >>>>>>> 5cf7a46... yeet
+=======
+- path: Assets/Scenes/Play Area.unity
+>>>>>>> 79dfa6a... yeet 2
   isLoaded: 1
   isActive: 1
