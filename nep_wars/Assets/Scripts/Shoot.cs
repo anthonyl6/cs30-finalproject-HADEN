@@ -14,7 +14,7 @@ public class Shoot : MonoBehaviour {
 	void FixedUpdate () {
 
 		if(Input.GetKeyDown(KeyCode.G)) {
-			ObjectPool.Instance.SpawnFromPool("bullet_placeholder", transform.position, Quaternion.identity);
+			
 		}
 			
 	}

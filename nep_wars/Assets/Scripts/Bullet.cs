@@ -4,18 +4,19 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour {
 
-	[SerializeField] float randomizer = 0.2f;
+	public float upForce = 1f;
+	public float sideForce = .1f;
 
 	// Use this for initialization
 	void Start () {
 		
+		float xForce = Random.Range(-sideForce, sideForce);
+		float yForce = Random.Range(upForce / 2f, upForce);
+
+		Vector3 force = new Vector3(xForce, yForce);
+
+		GetComponent<Rigidbody>().velocity = force;
+
 	}
 	
-	// Update is called once per frame
-	void Update () {
-
-		Vector3 Velocity = new Vector3(Random.Range(0f, randomizer), 0.0f);
-
-		transform.Translate(Velocity * Time.deltaTime);
-	}
 }
