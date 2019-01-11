@@ -7,7 +7,7 @@ using System;
 using System.Text.RegularExpressions;
 
 public class Login : MonoBehaviour {
-	[SerializeField] InputField username;
+	[SerializeField] public InputField username;
 	[SerializeField] InputField password;
 	[SerializeField] Text notificationText;
 	[SerializeField] GameObject loadingPanel;
@@ -15,8 +15,16 @@ public class Login : MonoBehaviour {
 	private String[] Lines;
 	private string DecryptedPass;
 
+	//cached references
+	usernamedisplay usernameTest;
+	public string usernameTemp;
+	string test;
+	
+
 	// Use this for initialization
 	void Start () {
+		usernameTest = FindObjectOfType<usernamedisplay>();
+		test = "Hello Working";
 		
 	}
 	
@@ -76,18 +84,20 @@ public class Login : MonoBehaviour {
 			notificationText.color = Color.red;
 		}
 		if(UN == true && PW == true) {
-			UsernameDisplay();
 			
-			username.text = "";
-			password.text = "";
-			
-
+		
 			Debug.Log("Login successful");
 			notificationText.text = "Login successful!";
 			notificationText.color = Color.green;
 
 			loadingPanel.SetActive(true);
 			loadingText.SetActive(true);
+
+			usernameTemp = username.text;
+			
+
+			UsernameDisplay();
+
 
 			StartCoroutine(wait());
 		}
@@ -100,7 +110,11 @@ public class Login : MonoBehaviour {
 
 	public string UsernameDisplay()
 	{
-		return username.text;
+		Debug.Log("Username function ran");
+		Debug.Log(usernameTemp);
+		test = "temp user";
+		Debug.Log(test);
+		return test;
 	}
 
 	// Update is called once per frame
@@ -110,14 +124,5 @@ public class Login : MonoBehaviour {
 				password.Select();
 			}
 		}
-		// if(Input.GetKeyDown(KeyCode.Return)) {
-		// 	if(password.text != "" && username.text != "") {
-		// 		loginButton();
-		// 	} else {
-		// 		Debug.LogWarning("Login fields empty.");
-		// 		notificationText.text = "Error: Login fields are empty";
-		// 		notificationText.color = Color.red;
-		// 	}
-		// }
 	}
 }

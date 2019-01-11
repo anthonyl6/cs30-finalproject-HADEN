@@ -8,6 +8,7 @@ sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Title Screen.unity
 =======
 - path: Assets/Scenes/Play Area.unity
@@ -36,5 +37,8 @@ sceneSetups:
 =======
 - path: Assets/Scenes/Level 1.unity
 >>>>>>> f3b3921... stash
+=======
+- path: Assets/Scenes/Login Screen.unity
+>>>>>>> AL_Login
   isLoaded: 1
   isActive: 1
