@@ -61,6 +61,9 @@
      <Compile Include="Assets\Scripts\Register.cs" />
      <Compile Include="Assets\Scripts\Shoot.cs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fc290c3... Fixed usernamedisplay script.
      <Compile Include="Assets\Scripts\usernamedisplay.cs" />
 =======
 >>>>>>> 22aea65... Fixed objectpool
@@ -120,6 +123,7 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
  <Reference Include="UnityEditor.StandardEvents">
 <<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
 =======
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
@@ -137,6 +141,18 @@
 =======
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
 >>>>>>> 22aea65... Fixed objectpool
+=======
+ <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro.Editor">
+ <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PackageManagerUI.Editor">
+ <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> fc290c3... Fixed usernamedisplay script.
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -341,6 +357,7 @@
  </Reference>
  <Reference Include="UnityEngine.Analytics">
 <<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>/Users/jullianp1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
@@ -351,6 +368,12 @@
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
 >>>>>>> 22aea65... Fixed objectpool
+=======
+ <HintPath>/Users/anthonyl6/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.StandardEvents">
+ <HintPath>/Users/anthonyl6/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+>>>>>>> fc290c3... Fixed usernamedisplay script.
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
