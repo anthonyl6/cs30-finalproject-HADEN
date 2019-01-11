@@ -61,9 +61,12 @@
      <Compile Include="Assets\Scripts\Register.cs" />
      <Compile Include="Assets\Scripts\Shoot.cs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
      <Compile Include="Assets\Scripts\usernamedisplay.cs" />
 =======
 >>>>>>> 22aea65... Fixed objectpool
+=======
+>>>>>>> a8936c3... solids
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
@@ -120,8 +123,11 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
  <Reference Include="UnityEditor.StandardEvents">
 <<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
 =======
+=======
+>>>>>>> a8936c3... solids
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
 >>>>>>> 22aea65... Fixed objectpool
  </Reference>
@@ -133,10 +139,14 @@
  </Reference>
  <Reference Include="Unity.TextMeshPro">
 <<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
 =======
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
 >>>>>>> 22aea65... Fixed objectpool
+=======
+ <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> a8936c3... solids
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -341,16 +351,22 @@
  </Reference>
  <Reference Include="UnityEngine.Analytics">
 <<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>/Users/jullianp1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/jullianp1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
 =======
+=======
+>>>>>>> a8936c3... solids
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+<<<<<<< HEAD
 >>>>>>> 22aea65... Fixed objectpool
+=======
+>>>>>>> a8936c3... solids
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
