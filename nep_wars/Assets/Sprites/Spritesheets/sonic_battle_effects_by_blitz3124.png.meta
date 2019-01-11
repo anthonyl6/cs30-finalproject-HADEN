@@ -1,0 +1,3764 @@
+fileFormatVersion: 2
+guid: 6be6803a8979e4076a2a7a0a5170cac6
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sonic_battle_effects_by_blitz3124_0
+    21300002: sonic_battle_effects_by_blitz3124_1
+    21300004: sonic_battle_effects_by_blitz3124_2
+    21300006: sonic_battle_effects_by_blitz3124_3
+    21300008: sonic_battle_effects_by_blitz3124_4
+    21300010: sonic_battle_effects_by_blitz3124_5
+    21300012: sonic_battle_effects_by_blitz3124_6
+    21300014: sonic_battle_effects_by_blitz3124_7
+    21300016: sonic_battle_effects_by_blitz3124_8
+    21300018: sonic_battle_effects_by_blitz3124_9
+    21300020: sonic_battle_effects_by_blitz3124_10
+    21300022: sonic_battle_effects_by_blitz3124_11
+    21300024: sonic_battle_effects_by_blitz3124_12
+    21300026: sonic_battle_effects_by_blitz3124_13
+    21300028: sonic_battle_effects_by_blitz3124_14
+    21300030: sonic_battle_effects_by_blitz3124_15
+    21300032: sonic_battle_effects_by_blitz3124_16
+    21300034: sonic_battle_effects_by_blitz3124_17
+    21300036: sonic_battle_effects_by_blitz3124_18
+    21300038: sonic_battle_effects_by_blitz3124_19
+    21300040: sonic_battle_effects_by_blitz3124_20
+    21300042: sonic_battle_effects_by_blitz3124_21
+    21300044: sonic_battle_effects_by_blitz3124_22
+    21300046: sonic_battle_effects_by_blitz3124_23
+    21300048: sonic_battle_effects_by_blitz3124_24
+    21300050: sonic_battle_effects_by_blitz3124_25
+    21300052: sonic_battle_effects_by_blitz3124_26
+    21300054: sonic_battle_effects_by_blitz3124_27
+    21300056: sonic_battle_effects_by_blitz3124_28
+    21300058: sonic_battle_effects_by_blitz3124_29
+    21300060: sonic_battle_effects_by_blitz3124_30
+    21300062: sonic_battle_effects_by_blitz3124_31
+    21300064: sonic_battle_effects_by_blitz3124_32
+    21300066: sonic_battle_effects_by_blitz3124_33
+    21300068: sonic_battle_effects_by_blitz3124_34
+    21300070: sonic_battle_effects_by_blitz3124_35
+    21300072: sonic_battle_effects_by_blitz3124_36
+    21300074: sonic_battle_effects_by_blitz3124_37
+    21300076: sonic_battle_effects_by_blitz3124_38
+    21300078: sonic_battle_effects_by_blitz3124_39
+    21300080: sonic_battle_effects_by_blitz3124_40
+    21300082: sonic_battle_effects_by_blitz3124_41
+    21300084: sonic_battle_effects_by_blitz3124_42
+    21300086: sonic_battle_effects_by_blitz3124_43
+    21300088: sonic_battle_effects_by_blitz3124_44
+    21300090: sonic_battle_effects_by_blitz3124_45
+    21300092: sonic_battle_effects_by_blitz3124_46
+    21300094: sonic_battle_effects_by_blitz3124_47
+    21300096: sonic_battle_effects_by_blitz3124_48
+    21300098: sonic_battle_effects_by_blitz3124_49
+    21300100: sonic_battle_effects_by_blitz3124_50
+    21300102: sonic_battle_effects_by_blitz3124_51
+    21300104: sonic_battle_effects_by_blitz3124_52
+    21300106: sonic_battle_effects_by_blitz3124_53
+    21300108: sonic_battle_effects_by_blitz3124_54
+    21300110: sonic_battle_effects_by_blitz3124_55
+    21300112: sonic_battle_effects_by_blitz3124_56
+    21300114: sonic_battle_effects_by_blitz3124_57
+    21300116: sonic_battle_effects_by_blitz3124_58
+    21300118: sonic_battle_effects_by_blitz3124_59
+    21300120: sonic_battle_effects_by_blitz3124_60
+    21300122: sonic_battle_effects_by_blitz3124_61
+    21300124: sonic_battle_effects_by_blitz3124_62
+    21300126: sonic_battle_effects_by_blitz3124_63
+    21300128: sonic_battle_effects_by_blitz3124_64
+    21300130: sonic_battle_effects_by_blitz3124_65
+    21300132: sonic_battle_effects_by_blitz3124_66
+    21300134: sonic_battle_effects_by_blitz3124_67
+    21300136: sonic_battle_effects_by_blitz3124_68
+    21300138: sonic_battle_effects_by_blitz3124_69
+    21300140: sonic_battle_effects_by_blitz3124_70
+    21300142: sonic_battle_effects_by_blitz3124_71
+    21300144: sonic_battle_effects_by_blitz3124_72
+    21300146: sonic_battle_effects_by_blitz3124_73
+    21300148: sonic_battle_effects_by_blitz3124_74
+    21300150: sonic_battle_effects_by_blitz3124_75
+    21300152: sonic_battle_effects_by_blitz3124_76
+    21300154: sonic_battle_effects_by_blitz3124_77
+    21300156: sonic_battle_effects_by_blitz3124_78
+    21300158: sonic_battle_effects_by_blitz3124_79
+    21300160: sonic_battle_effects_by_blitz3124_80
+    21300162: sonic_battle_effects_by_blitz3124_81
+    21300164: sonic_battle_effects_by_blitz3124_82
+    21300166: sonic_battle_effects_by_blitz3124_83
+    21300168: sonic_battle_effects_by_blitz3124_84
+    21300170: sonic_battle_effects_by_blitz3124_85
+    21300172: sonic_battle_effects_by_blitz3124_86
+    21300174: sonic_battle_effects_by_blitz3124_87
+    21300176: sonic_battle_effects_by_blitz3124_88
+    21300178: sonic_battle_effects_by_blitz3124_89
+    21300180: sonic_battle_effects_by_blitz3124_90
+    21300182: sonic_battle_effects_by_blitz3124_91
+    21300184: sonic_battle_effects_by_blitz3124_92
+    21300186: sonic_battle_effects_by_blitz3124_93
+    21300188: sonic_battle_effects_by_blitz3124_94
+    21300190: sonic_battle_effects_by_blitz3124_95
+    21300192: sonic_battle_effects_by_blitz3124_96
+    21300194: sonic_battle_effects_by_blitz3124_97
+    21300196: sonic_battle_effects_by_blitz3124_98
+    21300198: sonic_battle_effects_by_blitz3124_99
+    21300200: sonic_battle_effects_by_blitz3124_100
+    21300202: sonic_battle_effects_by_blitz3124_101
+    21300204: sonic_battle_effects_by_blitz3124_102
+    21300206: sonic_battle_effects_by_blitz3124_103
+    21300208: sonic_battle_effects_by_blitz3124_104
+    21300210: sonic_battle_effects_by_blitz3124_105
+    21300212: sonic_battle_effects_by_blitz3124_106
+    21300214: sonic_battle_effects_by_blitz3124_107
+    21300216: sonic_battle_effects_by_blitz3124_108
+    21300218: sonic_battle_effects_by_blitz3124_109
+    21300220: sonic_battle_effects_by_blitz3124_110
+    21300222: sonic_battle_effects_by_blitz3124_111
+    21300224: sonic_battle_effects_by_blitz3124_112
+    21300226: sonic_battle_effects_by_blitz3124_113
+    21300228: sonic_battle_effects_by_blitz3124_114
+    21300230: sonic_battle_effects_by_blitz3124_115
+    21300232: sonic_battle_effects_by_blitz3124_116
+    21300234: sonic_battle_effects_by_blitz3124_117
+    21300236: sonic_battle_effects_by_blitz3124_118
+    21300238: sonic_battle_effects_by_blitz3124_119
+    21300240: sonic_battle_effects_by_blitz3124_120
+    21300242: sonic_battle_effects_by_blitz3124_121
+    21300244: sonic_battle_effects_by_blitz3124_122
+    21300246: sonic_battle_effects_by_blitz3124_123
+    21300248: sonic_battle_effects_by_blitz3124_124
+    21300250: sonic_battle_effects_by_blitz3124_125
+    21300252: sonic_battle_effects_by_blitz3124_126
+    21300254: sonic_battle_effects_by_blitz3124_127
+    21300256: sonic_battle_effects_by_blitz3124_128
+    21300258: sonic_battle_effects_by_blitz3124_129
+    21300260: sonic_battle_effects_by_blitz3124_130
+    21300262: sonic_battle_effects_by_blitz3124_131
+    21300264: sonic_battle_effects_by_blitz3124_132
+    21300266: sonic_battle_effects_by_blitz3124_133
+    21300268: sonic_battle_effects_by_blitz3124_134
+    21300270: sonic_battle_effects_by_blitz3124_135
+    21300272: sonic_battle_effects_by_blitz3124_136
+    21300274: sonic_battle_effects_by_blitz3124_137
+    21300276: sonic_battle_effects_by_blitz3124_138
+    21300278: sonic_battle_effects_by_blitz3124_139
+    21300280: sonic_battle_effects_by_blitz3124_140
+    21300282: sonic_battle_effects_by_blitz3124_141
+    21300284: sonic_battle_effects_by_blitz3124_142
+    21300286: sonic_battle_effects_by_blitz3124_143
+    21300288: sonic_battle_effects_by_blitz3124_144
+    21300290: sonic_battle_effects_by_blitz3124_145
+    21300292: sonic_battle_effects_by_blitz3124_146
+    21300294: sonic_battle_effects_by_blitz3124_147
+    21300296: sonic_battle_effects_by_blitz3124_148
+    21300298: sonic_battle_effects_by_blitz3124_149
+    21300300: sonic_battle_effects_by_blitz3124_150
+    21300302: sonic_battle_effects_by_blitz3124_151
+    21300304: sonic_battle_effects_by_blitz3124_152
+    21300306: sonic_battle_effects_by_blitz3124_153
+    21300308: sonic_battle_effects_by_blitz3124_154
+    21300310: sonic_battle_effects_by_blitz3124_155
+    21300312: sonic_battle_effects_by_blitz3124_156
+    21300314: sonic_battle_effects_by_blitz3124_157
+    21300316: sonic_battle_effects_by_blitz3124_158
+    21300318: sonic_battle_effects_by_blitz3124_159
+    21300320: sonic_battle_effects_by_blitz3124_160
+    21300322: sonic_battle_effects_by_blitz3124_161
+    21300324: sonic_battle_effects_by_blitz3124_162
+    21300326: sonic_battle_effects_by_blitz3124_163
+    21300328: sonic_battle_effects_by_blitz3124_164
+    21300330: sonic_battle_effects_by_blitz3124_165
+    21300332: sonic_battle_effects_by_blitz3124_166
+    21300334: sonic_battle_effects_by_blitz3124_167
+    21300336: sonic_battle_effects_by_blitz3124_168
+    21300338: sonic_battle_effects_by_blitz3124_169
+    21300340: sonic_battle_effects_by_blitz3124_170
+    21300342: sonic_battle_effects_by_blitz3124_171
+    21300344: sonic_battle_effects_by_blitz3124_172
+    21300346: sonic_battle_effects_by_blitz3124_173
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 413
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8b0c75eb13a443dbf51cbbfafc1024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 412
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b474e603858436aa322241114ae472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 414
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145c876b877f047a5b9dc35366ae69c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 416
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b5d7c36d7c42e3972194c26f87e32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 417
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de59a29f9e3b4c0bb623833909ca9eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 409
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0bfdc784c754af79cb96c5bc104a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_6
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 377
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691c4201890d64d0a998e62a509542cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 374
+        width: 59
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86db608dd67af4838b37883525f3df5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_8
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 373
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24f1946801674ea1aca0e876d2a69c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_9
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 407
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b34e65025441431db40dbb63aa666df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_10
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 414
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81cc68bde94a494b8856fb3c9b0e71d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_11
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 413
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336579b35d60e472ba31511746471096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 415
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ed512b1009a44279acf4bda703cd7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_13
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 418
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7483861da96c49d68d0634161aa4cea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_14
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 309
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede05c482b4e74268ac2370cfec150f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_15
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 409
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb331f72d03e447fa2f59532e2c01d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_16
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 409
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f1391d30cda41318e3610fb6b59532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_17
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 409
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ac2e3f6e2f48cf8461c96c97e6a2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_18
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 409
+        width: 56
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c8d7339691e4328a82f639741f70da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_19
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 387
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf1140c536f44642b8aec50855fcd25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 383
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25af154db70de49bcaa2286c4b146232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_21
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 375
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1dfd691a9b426d88a8a6ef2698909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_22
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 404
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429fd1b51bd6848b5b10338ded4416d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_23
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 407
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3af75c92dc1495f9fc465cd1221f24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 406
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3dec755117d405f9d05343a4bcd823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_25
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 408
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4f1dc7853334e8daff730ac0305fee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 372
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b603adf8cc82e4a57b0b9673cb244ba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_27
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 373
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca16d59c1e2b4312882c2439f836ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 383
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0953006f088457d8cbd26a2744c1b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_29
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 401
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a519a0f9d6a0d41e4a962e82d5a72771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_30
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 394
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e08126bc23e4c5ea8799c09b1c1665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_31
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 391
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec628a8bae58f4ed182b2bf183f8e7ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_32
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 398
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1c0f3d458754b3d874aba4a22a01c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 376
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f759fd18932a8437facdd5cc9590a6f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_34
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 372
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c6c49de48ce4ce0ae99b12c02e695c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 386
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007abb2b80d1c47718f1fafa16c63d57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 376
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14220b9b44394308a33d012735e63d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_37
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 396
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7504a4deca7145999b55086a0fc8a85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_38
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 392
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8591fd2d1214ff393a9cadd5d71901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_39
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 373
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cef861256ceb47ab9bdf49f3192585a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_40
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 372
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0ba6d503145477db9256e48bd665e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_41
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 389
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5146fd4fa49c42fbb54c29abdff2c44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_42
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 392
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f2e2db2eb614fb0afd5d65ecc0a1db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_43
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 372
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a94cb55ee7f4820b1dfca5e855e725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_44
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 381
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15de57c4bed9a46c2a33c1601711adf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_45
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 390
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc5fff0c7a074dd0a899fe81b54e46e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_46
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 389
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443818960a35d467697271999487be6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_47
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 386
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456c902b348fd4213952b066ef87cdae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_48
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 386
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d4a296656ab40e8a7f153feba7351e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_49
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 389
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23c42630dc9d4729ad404a63c85434c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_50
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 372
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9522485ddb14c1db73c87d0149d218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_51
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 373
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a130a67717945cd82294291be07070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_52
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 379
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5f9cd0899cc44a49235be996fd6994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_53
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19698a781b5cd446cbafb2e1d4be3844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_54
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 385
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f98fc39e77b74cb48353813330be69e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_55
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 372
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509d1a18751394666ab24d96984260b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_56
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 372
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8567c290667704beb972b0d9a2596189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_57
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 373
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72121d343c004bb5bf39eab07a9ebb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_58
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 373
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664931ef050cb45958ee0a1172063f5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_59
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 330
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a439321d54f46fab5bdeb85e5f798d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_60
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 323
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a727260c8cf476ebdf7f40578a886e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_61
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 317
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453223ec3e5184ef18457b195aa82713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 314
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfab350b58b3e44fbb8409a1589cc879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_63
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 313
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef56c8635a10d457e8731bac5c7287b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_64
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3612a3ee72948ccbbe543ef0c5cbaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_65
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 330
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21faee2c396545bab2ca799b4b3e901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_66
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 311
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fe1becaeb154a26985ff12d96b99af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_67
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 325
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b1a19cd41e4912b22e6992e1eb0a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 310
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6b94721e1104110bb05c7659b8141d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_69
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 309
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800cc5f69a44d4628acf134b74294b8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_70
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 309
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c180b4020d0664a8d86a91ffa30ab676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_71
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 341
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfba00bfff8e45adaa41c448f45a329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_72
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 309
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b25647e85a2b4ee89b12e374702a8a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_73
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 341
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f064e7759c354a33a5e26fcfa65f7e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_74
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 307
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d3d2d4aed7e4b0bb4c7869b33143b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_75
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 340
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622da6fab7ee44ae3886fc23984b596d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_76
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 305
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369818cc86174443e981c4753ad27f53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_77
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 341
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1347a4ee48d4a648d3d623c9a90b11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_78
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 304
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adf36aa978a545888128cbd8df18219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_79
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 341
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f10658def3f940528f1edf9b4eb9dc8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_80
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 305
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a483f777a474e549f788589623d0c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_81
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 340
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159dcb1823315491298e096453687234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_82
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 304
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c8ba68eb38946229e286ca18ab9b32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_83
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 310
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324db39f538854227aa356681eb6af6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_84
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 304
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea05bc20f47ec4c7fafc895780be3fe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_85
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 341
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68cc5846c4cd48b0b0485081f1bf81e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_86
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 305
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a8d89226cde41418dba5a26395a5ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_87
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 287
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f28331b7b9c046b8a412ed9664f4ea8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_88
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 285
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4be2ceef9de476e952f9f2581b8729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_89
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 283
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4200528fa92f94546b791c34e77cdb23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_90
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 281
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea3fff6297bc4bcc931ebf9f5a43aba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_91
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 291
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0f370fb111741f29ef5bf04bfdb105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_92
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 280
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ea1e280e5674b55ad7c262a30e2c64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_93
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 277
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4e093cf9954456b95ddc8d7314dbe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_94
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 275
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9102f3d0dfb684302a457e8f8e14b1a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_95
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 273
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd878c180f2114546a876df25ada548f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_96
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 272
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05abc6ec47a884f72a98f3d9c6b7fe01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_97
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 269
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b5fedf509f949be889bb4c4bf6ec1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_98
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 288
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25df4288a66c4421daa961c78d8d7e61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_99
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 241
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5420379cd30a4d7b8d98521861ea6b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_100
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 269
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f2c243e65f94a7e85c2936b7a0c762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_101
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 250
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3eb72dfa18164be797daf8f641c638e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_102
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 269
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a79f2732c8d4ee2a339386b192314d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_103
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 279
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c760048249684685869fae4a50f3f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_104
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 269
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381d5c68efd9f4183ab1a24f46b3a014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_105
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 238
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df494af7c0a1e4642b69bfe5735009cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_106
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 215
+        width: 43
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43302de3341f94c37a1dfe0884623c21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_107
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 207
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af341ebf3546422187ae6fb9bd4f515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_108
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 204
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2dda6ea75064d0280327ca20b1b41c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_109
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 203
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a7ba4dc61544829925740477ec7344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_110
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 204
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ba98555d5774dbdbaead5255e979f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_111
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 204
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86cca77fc9a94b8ea94e18918f71b4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_112
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 205
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474041b2161974f9a93de282fe425b27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_113
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 219
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b926ccd14098b43b283ed9e2c61e08c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_114
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 229
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315175446659349aa98f07f92145ff29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_115
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 239
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fae3fa16f0da44269a26e1d33dec419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_116
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 223
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0716f1518ab4408ba7501e1f2052202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_117
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 241
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57533d7326dab45fc8bebfde318c3504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_118
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 217
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d30c3b3f9f6448c8aae1254cc37279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_119
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 201
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d32eda2a4fca43399e6a641f9c379bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_120
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 201
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0822d9ea0f3d4a5cb7f0b4ed6ded042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_121
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 201
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8877e612d55be4c3c8062a70809fef7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_122
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 227
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6938c632c1e46e0bf0ada9271f6dca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_123
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 201
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b278df6130c948c39eca87e054efa26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_124
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 202
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a67063139a4456b915802c199eb408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_125
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 225
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e771dd2e0e24545a450f9659874773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_126
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 231
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822e71669f3794917aca52ced399bd6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_127
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 203
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6112da7b3482a421993a1377216c1c46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_128
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 220
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb7dbc7406b64730af649de29509a1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_129
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 201
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271eb390279f24a9698d0f02c9acc2b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_130
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 201
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2430ca286385d457dad2dc73ffc4502f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_131
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 202
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4d1f3d23acf4f8e8c028ef5a2c8595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_132
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 204
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dde06429f8444c5ad1a30f940cbfe4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_133
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 203
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b298ddd22914f4b31823ef1062c0d717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_134
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 207
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eb291cbebab443b9912d787491d135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_135
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 207
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c946d42d878943a09b50b3c386d15d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_136
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 206
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f828ba392ae44dab841148237a812d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_137
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 206
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f292c79ab48494d14bbf39d041d684ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_138
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 206
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db5aab9c39394b60b0ac7cf8f22d9d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_139
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 202
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b99cf56fa04485a8271af6baac67a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_140
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 92
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28874afc053e40cab06a662c5ad344d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_141
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 92
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61db95203bfc41a3a329f1de75ebaa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_142
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62088dcaa0b04743a097d3063c47a32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_143
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 92
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef20b05e9c02c4dbd8e6f1c2c0efc55e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_144
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 92
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad1d0d492eb9445f962cd1ff867baed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_145
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 92
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b65157e7eb748a1b1401c7e1fbf7eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_146
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 92
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65e5a0e6dc5944a5a97118c355e2b34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_147
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 92
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec18fee5f3454533be4334cdd0760fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_148
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 92
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a255f8fc8924c46a5c4a6b4bf9f305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_149
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 92
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2d2ea2cc2954fcd8e6e871b2289cb9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_150
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdb498a5b2884c8193698624a4039dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_151
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 165
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36d659f699774fbfa2e41c58b78e45a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_152
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 167
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32db4a1b6a75415bb57f50f3f571847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_153
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 166
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3c03a76570e4f3dbed098ea2144507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_154
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 166
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b90858c42874a118c121c4e36e9544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_155
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 137
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e04eb5773b064491b3aa3d02040e1e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_156
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e11f7adf903647e0b27f301bab23ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_157
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b677fdacf3945f6ad0ab9ed520dda0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_158
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 141
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf6df268695445df93b2df9007c0439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_159
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 136
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecda4b71cd664d55bf979ef9ace7653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_160
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 131
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdd17da7348740db9b4fec8f8ccf835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_161
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 129
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c10cc8c28414600864461d56e08a88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_162
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 149
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a6b0cb5bc694519b250f7c773561a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_163
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 138
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c071e88559524f069f0ce79085cc1ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_164
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 144
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f71d8f5750e64e69b627d655276595a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_165
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 134
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e8696bb02ce4757961e56e059ac57e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_166
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 154
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76a1a1ee4ffe4addbc0579452cc77c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_167
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 147
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fda7b724cfc46049146f26d5ce2a8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_168
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 142
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a07f7eed0894bd8b8a958214dc6c34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_169
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 151
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d749063ad0fb40a49ad82bd6c1faf64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_170
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 140
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5352c0966f4964c8d959bfdc7366dc56
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_171
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 150
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2631771ff00436483b1d159e93adaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_172
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 135
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec9d5d86f49e46ebb9c294a379680cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_battle_effects_by_blitz3124_173
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 1004
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc0c59b5cc6f4dea89c5473a0be57b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 314d46b2eb3b04781af7e1b4b43b5ddb
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
