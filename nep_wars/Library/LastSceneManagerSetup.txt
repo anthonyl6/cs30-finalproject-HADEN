@@ -6,6 +6,7 @@ sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Title Screen.unity
 =======
 - path: Assets/Scenes/Play Area.unity
@@ -28,5 +29,8 @@ sceneSetups:
 =======
 - path: Assets/Scenes/animation_testing.unity
 >>>>>>> 1befc72... just got on lol
+=======
+- path: Assets/Scenes/Level 1.unity
+>>>>>>> 22aea65... Fixed objectpool
   isLoaded: 1
   isActive: 1

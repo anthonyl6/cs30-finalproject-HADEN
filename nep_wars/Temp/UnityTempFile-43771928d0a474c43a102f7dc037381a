@@ -189,11 +189,11 @@
 -define:UNITY_TEAM_LICENSE
 'Assets/Scripts/Bullet.cs'
 'Assets/Scripts/Control.cs'
+'Assets/Scripts/iPooledObject.cs'
 'Assets/Scripts/Login.cs'
 'Assets/Scripts/ObjectPool.cs'
 'Assets/Scripts/Register.cs'
 'Assets/Scripts/Shoot.cs'
-'Assets/Scripts/SoundEffect.cs'
 'Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs'
 'Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs'
 'Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs'
