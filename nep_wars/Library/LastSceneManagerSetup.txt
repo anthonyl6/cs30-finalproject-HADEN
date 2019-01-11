@@ -1,36 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-- path: Assets/Scenes/Title Screen.unity
-=======
-- path: Assets/Scenes/Play Area.unity
->>>>>>> ef920ed... adding hit effect sprites
-=======
-- path: Assets/Scenes/Play Area.unity
->>>>>>> 0d1790d... Bullet Wiggle
-=======
 - path: Assets/Scenes/Login Screen.unity
->>>>>>> c7afb5b... update files.
-=======
-- path: Assets/Scenes/Login Page.unity
->>>>>>> 5cf7a46... yeet
-=======
-- path: Assets/Scenes/Play Area.unity
->>>>>>> 79dfa6a... yeet 2
-=======
-- path: Assets/Scenes/Title Screen.unity
->>>>>>> 84e28f3... trying to fix tmpro.
-=======
-- path: Assets/Scenes/animation_testing.unity
->>>>>>> 1befc72... just got on lol
-=======
-- path: Assets/Scenes/Level 1.unity
->>>>>>> 22aea65... Fixed objectpool
   isLoaded: 1
   isActive: 1
