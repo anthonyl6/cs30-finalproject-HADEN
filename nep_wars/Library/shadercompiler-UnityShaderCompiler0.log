@@ -22,6 +22,7 @@ Cmd: compileSnippet
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+<<<<<<< HEAD
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -118,3 +119,5 @@ Cmd: initializeCompiler
 >>>>>>> AL_Login
 =======
 >>>>>>> 924fab3... 2 player controls
+=======
+>>>>>>> 87fd902... idk
