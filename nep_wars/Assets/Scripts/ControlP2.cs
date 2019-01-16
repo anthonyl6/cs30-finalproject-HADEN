@@ -10,7 +10,7 @@ public class ControlP2 : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		var move = new Vector3(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"), 0);
+		var move = new Vector3(Input.GetAxis("Horizontal2"), Input.GetAxis("Vertical2"), 0);
 
 		var movement = transform.position += move * speed * Time.deltaTime;
 

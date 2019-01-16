@@ -9,6 +9,7 @@ sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Title Screen.unity
 =======
 - path: Assets/Scenes/Play Area.unity
@@ -40,5 +41,8 @@ sceneSetups:
 =======
 - path: Assets/Scenes/Login Screen.unity
 >>>>>>> AL_Login
+=======
+- path: Assets/Scenes/Level 1.unity
+>>>>>>> 924fab3... 2 player controls
   isLoaded: 1
   isActive: 1
