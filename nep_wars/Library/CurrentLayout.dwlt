@@ -41,8 +41,12 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 542}
 >>>>>>> 6343a0e... yeet
+=======
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> 648cd79... oof
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -117,11 +121,15 @@ MonoBehaviour:
 =======
     width: 1501
     height: 937
+<<<<<<< HEAD
   m_MinSize: {x: 681, y: 492}
 >>>>>>> 6343a0e... yeet
+=======
+  m_MinSize: {x: 683, y: 492}
+>>>>>>> 648cd79... oof
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 22
+  controlID: 87
 --- !u!114 &3
 =======
     width: 2048
@@ -169,10 +177,16 @@ MonoBehaviour:
     y: 0
     width: 414
     height: 937
+<<<<<<< HEAD
 >>>>>>> 6343a0e... yeet
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
+=======
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 14}
+>>>>>>> 648cd79... oof
   m_Panes:
   - {fileID: 15}
   - {fileID: 19}
@@ -223,9 +237,14 @@ MonoBehaviour:
 =======
     width: 294
     height: 564
+<<<<<<< HEAD
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
 >>>>>>> 6343a0e... yeet
+=======
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+>>>>>>> 648cd79... oof
   m_ActualView: {fileID: 15}
 =======
     width: 404
@@ -443,11 +462,15 @@ MonoBehaviour:
 =======
     width: 1087
     height: 937
+<<<<<<< HEAD
   m_MinSize: {x: 404, y: 492}
 >>>>>>> 6343a0e... yeet
+=======
+  m_MinSize: {x: 406, y: 492}
+>>>>>>> 648cd79... oof
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 23
+  controlID: 88
 --- !u!114 &10
 =======
     width: 1633
@@ -506,11 +529,16 @@ MonoBehaviour:
 =======
     width: 1087
     height: 564
+<<<<<<< HEAD
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
 >>>>>>> 6343a0e... yeet
+=======
+  m_MinSize: {x: 406, y: 221}
+  m_MaxSize: {x: 8006, y: 4021}
+>>>>>>> 648cd79... oof
   vertical: 0
-  controlID: 71
+  controlID: 89
 --- !u!114 &11
 =======
     width: 1633
@@ -562,6 +590,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_ActualView: {fileID: 16}
 =======
     x: 404
@@ -575,6 +604,9 @@ MonoBehaviour:
 =======
   m_ActualView: {fileID: 17}
 >>>>>>> 924fab3... 2 player controls
+=======
+  m_ActualView: {fileID: 17}
+>>>>>>> 648cd79... oof
   m_Panes:
 <<<<<<< HEAD
   - {fileID: 17}
@@ -607,8 +639,8 @@ MonoBehaviour:
   - {fileID: 16}
   - {fileID: 12}
   - {fileID: 17}
-  m_Selected: 0
-  m_LastSelected: 2
+  m_Selected: 2
+  m_LastSelected: 0
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -718,6 +750,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets
 =======
     - Assets/Scripts
@@ -730,10 +763,13 @@ MonoBehaviour:
   m_LastProjectPath: /Users/czedrickb1/Desktop/nepwars/nep_wars
 =======
     - Assets/Images
+=======
+    - Assets/Scenes
+>>>>>>> 648cd79... oof
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Images
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/jullianp1/Desktop/finalproject/nep_wars
 >>>>>>> 6343a0e... yeet
@@ -741,6 +777,7 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: b0230000
@@ -772,6 +809,11 @@ MonoBehaviour:
     m_LastClickedID: 12278
     m_ExpandedIDs: 00000000fe2900001e2b0000882c000000ca9a3b
 >>>>>>> 6343a0e... yeet
+=======
+    m_SelectedIDs: 2c2a0000
+    m_LastClickedID: 10796
+    m_ExpandedIDs: 00000000f2290000162b00008c2c000000ca9a3b
+>>>>>>> 648cd79... oof
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -815,6 +857,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000b023000000ca9a3bffffff7f
 =======
     m_ExpandedIDs: 00000000e82e00007a2f0000da300000
@@ -825,6 +868,9 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000fe2900001e2b0000882c0000
 >>>>>>> 6343a0e... yeet
+=======
+    m_ExpandedIDs: 00000000f2290000162b00008c2c0000
+>>>>>>> 648cd79... oof
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -854,6 +900,7 @@ MonoBehaviour:
     m_LastClickedInstanceID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 0
 =======
     m_SelectedInstanceIDs: c4310000
@@ -867,6 +914,9 @@ MonoBehaviour:
 >>>>>>> 924fab3... 2 player controls
 =======
     m_HadKeyboardFocusLastEvent: 1
+=======
+    m_HadKeyboardFocusLastEvent: 0
+>>>>>>> 648cd79... oof
     m_ExpandedInstanceIDs: c62300003e3f0000e6380000
 >>>>>>> 6343a0e... yeet
     m_RenameOverlay:
@@ -1025,11 +1075,15 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 76010000
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: f4f3ffffccf4ffffe2faffff00000000
 >>>>>>> 924fab3... 2 player controls
 =======
     m_ExpandedIDs: 840efdff0a1afdff1cc2ffff26c2ffffb2f0ffffd8fbffff000000009e320000a8320000
 >>>>>>> 6343a0e... yeet
+=======
+    m_ExpandedIDs: b0d9fffffee2ffff7ae7ffffe6fbffff00000000be340000
+>>>>>>> 648cd79... oof
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1072,7 +1126,7 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 0}
     m_SearchString: 
   m_ExpandedScenes:
-  - animation_testing
+  - Title Screen
   m_CurrenRootInstanceID: 0
   m_LockTracker:
     m_IsLocked: 0
@@ -1137,6 +1191,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
@@ -1155,6 +1210,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -2.237083, y: 2.7617853, z: 2.822398}
 >>>>>>> 6343a0e... yeet
+=======
+    m_Target: {x: 9.418081, y: 4.084905, z: 4.051827}
+    speed: 2
+    m_Value: {x: 9.418081, y: 4.084905, z: 4.051827}
+>>>>>>> 648cd79... oof
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1189,6 +1249,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 10
 =======
     m_Target: 21.850313
@@ -1219,15 +1280,22 @@ MonoBehaviour:
 >>>>>>> 924fab3... 2 player controls
 =======
     m_Target: 10.811581
+=======
+    m_Target: 19.461382
+>>>>>>> 648cd79... oof
     speed: 2
-    m_Value: 10.811581
+    m_Value: 19.461382
   m_Ortho:
     m_Target: 1
     speed: 2
     m_Value: 1
   m_ShowGlobalGrid: 1
+<<<<<<< HEAD
   m_LastSceneViewRotation: {x: -0.119758524, y: 0.7175857, z: -0.12747462, w: -0.6741506}
 >>>>>>> 6343a0e... yeet
+=======
+  m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+>>>>>>> 648cd79... oof
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -1331,10 +1399,14 @@ MonoBehaviour:
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_EnableMouseInput: 1
 =======
     m_EnableMouseInput: 0
 >>>>>>> 6343a0e... yeet
+=======
+    m_EnableMouseInput: 1
+>>>>>>> 648cd79... oof
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1

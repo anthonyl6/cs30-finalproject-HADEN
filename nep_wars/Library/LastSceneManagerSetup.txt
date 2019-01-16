@@ -11,6 +11,7 @@ sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Title Screen.unity
 =======
 - path: Assets/Scenes/Play Area.unity
@@ -48,5 +49,8 @@ sceneSetups:
 =======
 - path: Assets/Scenes/animation_testing.unity
 >>>>>>> 6343a0e... yeet
+=======
+- path: Assets/Scenes/Title Screen.unity
+>>>>>>> 648cd79... oof
   isLoaded: 1
   isActive: 1
