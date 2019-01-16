@@ -283,8 +283,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pools:
-  - tag: Cube
-    prefab: {fileID: 1890610176748964, guid: fcfc5b4094881404ca5d56ebce936023, type: 2}
+  - tag: bullet
+    prefab: {fileID: 1409542142735026, guid: d8e6e65a36d1047f4969108599a2da4a, type: 2}
     size: 150
 --- !u!4 &1545784118
 Transform:
