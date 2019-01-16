@@ -1,6 +1,8 @@
 Base path: /Applications/Unity/Unity.app/Contents
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+<<<<<<< HEAD
+<<<<<<< HEAD
 Cmd: initializeCompiler
 <<<<<<< HEAD
 =======
@@ -40,3 +42,7 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 >>>>>>> d8004e2... Added code for controls.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> aed788c... made title screen background

@@ -15,6 +15,8 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: -1
     y: 45
     width: 2048
@@ -24,10 +26,14 @@ MonoBehaviour:
   m_RootView: {fileID: 7}
   m_MinSize: {x: 950, y: 542}
 =======
+=======
+>>>>>>> aed788c... made title screen background
     x: 0
+<<<<<<< HEAD
     y: 45
     width: 2560
     height: 1391
+<<<<<<< HEAD
 =======
     x: 14
     y: 51
@@ -39,12 +45,48 @@ MonoBehaviour:
   m_RootView: {fileID: 2}
   m_MinSize: {x: 950, y: 300}
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+    x: 0
+=======
+>>>>>>> 792e17e... done for now lol
+    y: 44
+    width: 2048
+    height: 1044
+  m_ShowMode: 4
+  m_Title: 
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_RootView: {fileID: 6}
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> aed788c... made title screen background
+=======
+  m_RootView: {fileID: 7}
+  m_MinSize: {x: 950, y: 542}
+>>>>>>> 792e17e... done for now lol
+=======
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 6}
+  m_MinSize: {x: 950, y: 300}
+>>>>>>> aed788c... made title screen background
+=======
+  m_RootView: {fileID: 7}
+  m_MinSize: {x: 950, y: 542}
+>>>>>>> 792e17e... done for now lol
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 792e17e... done for now lol
+=======
+>>>>>>> 792e17e... done for now lol
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -56,10 +98,23 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: 959
     y: 0
     width: 674
     height: 601
+=======
+=======
+>>>>>>> 792e17e... done for now lol
+    x: 944
+    y: 0
+    width: 689
+    height: 602
+<<<<<<< HEAD
+>>>>>>> 792e17e... done for now lol
+=======
+>>>>>>> 792e17e... done for now lol
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 18}
@@ -71,12 +126,24 @@ MonoBehaviour:
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_PrefabParentObject: {fileID: 0}
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
 =======
   m_CorrespondingSourceObject: {fileID: 0}
 >>>>>>> d8004e2... Added code for controls.
+=======
+  m_PrefabParentObject: {fileID: 0}
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
+=======
+  m_PrefabParentObject: {fileID: 0}
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -85,6 +152,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 10}
 =======
@@ -106,12 +177,40 @@ MonoBehaviour:
   controlID: 22
 --- !u!114 &4
 =======
+=======
+  - {fileID: 9}
+  - {fileID: 3}
+=======
+  - {fileID: 10}
+  - {fileID: 4}
+>>>>>>> 792e17e... done for now lol
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+<<<<<<< HEAD
+>>>>>>> aed788c... made title screen background
+=======
+  - {fileID: 9}
+  - {fileID: 3}
+=======
+  - {fileID: 10}
+  - {fileID: 4}
+>>>>>>> 792e17e... done for now lol
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+<<<<<<< HEAD
+>>>>>>> aed788c... made title screen background
     width: 2560
     height: 1341
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
   controlID: 615
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
     y: 0
     width: 2048
@@ -121,6 +220,30 @@ MonoBehaviour:
 >>>>>>> d8004e2... Added code for controls.
 --- !u!114 &3
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+--- !u!114 &3
+>>>>>>> aed788c... made title screen background
+=======
+    width: 2048
+    height: 994
+  m_MinSize: {x: 885, y: 492}
+  m_MaxSize: {x: 16010, y: 14042}
+  vertical: 0
+  controlID: 22
+--- !u!114 &4
+>>>>>>> 792e17e... done for now lol
+=======
+--- !u!114 &3
+>>>>>>> aed788c... made title screen background
+=======
+    width: 2048
+    height: 994
+  m_MinSize: {x: 885, y: 492}
+  m_MaxSize: {x: 16010, y: 14042}
+  vertical: 0
+  controlID: 22
+--- !u!114 &4
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -136,6 +259,10 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: 1633
     y: 0
     width: 415
@@ -143,10 +270,26 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
+=======
+    x: 2041
+=======
+    x: 1633
+>>>>>>> 792e17e... done for now lol
+    y: 0
+    width: 415
+    height: 994
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+<<<<<<< HEAD
+  m_ActualView: {fileID: 14}
+>>>>>>> aed788c... made title screen background
+=======
+  m_ActualView: {fileID: 15}
+>>>>>>> 792e17e... done for now lol
   m_Panes:
   - {fileID: 15}
-  - {fileID: 19}
   m_Selected: 0
+<<<<<<< HEAD
   m_LastSelected: 1
 --- !u!114 &5
 =======
@@ -162,6 +305,35 @@ MonoBehaviour:
   m_LastLoadedLayoutName: 
 --- !u!114 &4
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+  m_LastSelected: 0
+<<<<<<< HEAD
+--- !u!114 &4
+>>>>>>> aed788c... made title screen background
+=======
+--- !u!114 &5
+>>>>>>> 792e17e... done for now lol
+=======
+    x: 2041
+=======
+    x: 1633
+>>>>>>> 792e17e... done for now lol
+    y: 0
+    width: 415
+    height: 994
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+  m_Panes:
+  - {fileID: 15}
+  m_Selected: 0
+  m_LastSelected: 0
+<<<<<<< HEAD
+--- !u!114 &4
+>>>>>>> aed788c... made title screen background
+=======
+--- !u!114 &5
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -177,7 +349,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     width: 404
     height: 601
@@ -185,16 +360,47 @@ MonoBehaviour:
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 16}
 =======
+=======
+    y: 0
+<<<<<<< HEAD
+>>>>>>> aed788c... made title screen background
     width: 505
     height: 811
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+=======
+>>>>>>> 792e17e... done for now lol
+    width: 255
+    height: 602
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 16}
+<<<<<<< HEAD
+>>>>>>> 792e17e... done for now lol
+=======
+    y: 0
+    width: 505
+    height: 811
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 15}
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
   m_Panes:
   - {fileID: 16}
   m_Selected: 0
   m_LastSelected: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &6
 =======
     y: 1023
@@ -204,6 +410,18 @@ MonoBehaviour:
   m_MaxSize: {x: 0, y: 0}
 --- !u!114 &5
 >>>>>>> d8004e2... Added code for controls.
+=======
+--- !u!114 &5
+>>>>>>> aed788c... made title screen background
+=======
+--- !u!114 &6
+>>>>>>> 792e17e... done for now lol
+=======
+--- !u!114 &5
+>>>>>>> aed788c... made title screen background
+=======
+--- !u!114 &6
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -222,22 +440,50 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     y: 601
     width: 1633
     height: 392
+=======
+    y: 811
+    width: 2041
+    height: 530
+>>>>>>> aed788c... made title screen background
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
-  m_ActualView: {fileID: 14}
+  m_ActualView: {fileID: 13}
   m_Panes:
+<<<<<<< HEAD
   - {fileID: 14}
 =======
     y: 811
     width: 2041
     height: 530
+=======
+    y: 602
+    width: 1633
+    height: 392
+>>>>>>> 792e17e... done for now lol
+=======
+    y: 811
+    width: 2041
+    height: 530
+>>>>>>> aed788c... made title screen background
+=======
+    y: 602
+    width: 1633
+    height: 392
+>>>>>>> 792e17e... done for now lol
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
-  m_ActualView: {fileID: 13}
+  m_ActualView: {fileID: 14}
   m_Panes:
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 13}
   - {fileID: 18}
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
@@ -254,6 +500,34 @@ MonoBehaviour:
   controlID: 1097
 --- !u!114 &6
 >>>>>>> d8004e2... Added code for controls.
+=======
+  - {fileID: 13}
+  - {fileID: 18}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &6
+>>>>>>> aed788c... made title screen background
+=======
+  - {fileID: 14}
+  - {fileID: 19}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &7
+>>>>>>> 792e17e... done for now lol
+=======
+  - {fileID: 13}
+  - {fileID: 18}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &6
+>>>>>>> aed788c... made title screen background
+=======
+  - {fileID: 14}
+  - {fileID: 19}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &7
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -266,6 +540,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 8}
   - {fileID: 3}
   - {fileID: 9}
@@ -273,21 +551,51 @@ MonoBehaviour:
   - {fileID: 7}
   - {fileID: 11}
 >>>>>>> d8004e2... Added code for controls.
+=======
+  - {fileID: 7}
+  - {fileID: 2}
+  - {fileID: 8}
+>>>>>>> aed788c... made title screen background
+=======
+  - {fileID: 8}
+  - {fileID: 3}
+  - {fileID: 9}
+>>>>>>> 792e17e... done for now lol
+=======
+  - {fileID: 7}
+  - {fileID: 2}
+  - {fileID: 8}
+>>>>>>> aed788c... made title screen background
+=======
+  - {fileID: 8}
+  - {fileID: 3}
+  - {fileID: 9}
+>>>>>>> 792e17e... done for now lol
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     width: 2048
     height: 1043
   m_MinSize: {x: 950, y: 542}
 =======
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> aed788c... made title screen background
     width: 2560
     height: 1391
   m_MinSize: {x: 950, y: 300}
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
   m_MaxSize: {x: 10000, y: 10000}
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &8
 =======
     width: 1633
@@ -298,9 +606,35 @@ MonoBehaviour:
   controlID: 1098
 --- !u!114 &7
 >>>>>>> d8004e2... Added code for controls.
+=======
+--- !u!114 &7
+>>>>>>> aed788c... made title screen background
+=======
+    width: 2048
+    height: 1044
+  m_MinSize: {x: 950, y: 542}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &8
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
+=======
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_PrefabParentObject: {fileID: 0}
+>>>>>>> aed788c... made title screen background
+=======
+    width: 2048
+    height: 1044
+  m_MinSize: {x: 950, y: 542}
+  m_MaxSize: {x: 10000, y: 10000}
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+>>>>>>> 792e17e... done for now lol
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -318,6 +652,10 @@ MonoBehaviour:
     y: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     width: 2048
     height: 30
   m_MinSize: {x: 0, y: 0}
@@ -325,11 +663,14 @@ MonoBehaviour:
   m_LastLoadedLayoutName: 
 --- !u!114 &9
 =======
+=======
+>>>>>>> aed788c... made title screen background
     width: 2560
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: Default
+<<<<<<< HEAD
 =======
     width: 1633
     height: 601
@@ -340,6 +681,33 @@ MonoBehaviour:
 >>>>>>> d8004e2... Added code for controls.
 --- !u!114 &8
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+--- !u!114 &8
+>>>>>>> aed788c... made title screen background
+=======
+    width: 2048
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &9
+>>>>>>> 792e17e... done for now lol
+=======
+    width: 2560
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: Default
+--- !u!114 &8
+>>>>>>> aed788c... made title screen background
+=======
+    width: 2048
+    height: 30
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+  m_LastLoadedLayoutName: 
+--- !u!114 &9
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -354,6 +722,10 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     y: 1023
@@ -379,9 +751,33 @@ MonoBehaviour:
   m_LastSelected: 0
 --- !u!114 &9
 >>>>>>> d8004e2... Added code for controls.
+=======
+    y: 1371
+    width: 2560
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &9
+>>>>>>> aed788c... made title screen background
+=======
+    y: 1024
+    width: 2048
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &10
+>>>>>>> 792e17e... done for now lol
+=======
+    y: 1371
+    width: 2560
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &9
+>>>>>>> aed788c... made title screen background
 MonoBehaviour:
   m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -391,15 +787,33 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
   m_Children:
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 11}
   - {fileID: 6}
 =======
   m_Children: []
 >>>>>>> d8004e2... Added code for controls.
+=======
+  - {fileID: 10}
+  - {fileID: 5}
+>>>>>>> aed788c... made title screen background
+=======
+  - {fileID: 11}
+  - {fileID: 6}
+>>>>>>> 792e17e... done for now lol
+=======
+  - {fileID: 10}
+  - {fileID: 5}
+>>>>>>> aed788c... made title screen background
   m_Position:
     serializedVersion: 2
     x: 202
     y: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     width: 1633
@@ -410,12 +824,18 @@ MonoBehaviour:
   controlID: 23
 --- !u!114 &11
 =======
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> aed788c... made title screen background
     width: 2041
     height: 1341
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
   controlID: 547
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
     width: 674
     height: 601
@@ -430,9 +850,24 @@ MonoBehaviour:
 >>>>>>> d8004e2... Added code for controls.
 --- !u!114 &10
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+--- !u!114 &10
+>>>>>>> aed788c... made title screen background
+=======
+    width: 1633
+    height: 994
+  m_MinSize: {x: 608, y: 492}
+  m_MaxSize: {x: 12008, y: 14042}
+  vertical: 1
+  controlID: 23
+--- !u!114 &11
+>>>>>>> 792e17e... done for now lol
+=======
+--- !u!114 &10
+>>>>>>> aed788c... made title screen background
 MonoBehaviour:
   m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -440,6 +875,8 @@ MonoBehaviour:
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Children:
 <<<<<<< HEAD
@@ -453,10 +890,29 @@ MonoBehaviour:
 =======
   m_Children: []
 >>>>>>> d8004e2... Added code for controls.
+=======
+  m_Children:
+<<<<<<< HEAD
+  - {fileID: 4}
+  - {fileID: 11}
+>>>>>>> aed788c... made title screen background
+=======
+  - {fileID: 5}
+  - {fileID: 12}
+  - {fileID: 2}
+>>>>>>> 792e17e... done for now lol
+=======
+  m_Children:
+  - {fileID: 4}
+  - {fileID: 11}
+>>>>>>> aed788c... made title screen background
   m_Position:
     serializedVersion: 2
     x: 876
     y: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     width: 1633
@@ -467,12 +923,18 @@ MonoBehaviour:
   controlID: 111
 --- !u!114 &12
 =======
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> aed788c... made title screen background
     width: 2041
     height: 811
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
   controlID: 548
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
     width: 757
     height: 601
@@ -486,6 +948,18 @@ MonoBehaviour:
 >>>>>>> d8004e2... Added code for controls.
 --- !u!114 &11
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+--- !u!114 &11
+>>>>>>> aed788c... made title screen background
+=======
+    width: 1633
+    height: 602
+  m_MinSize: {x: 608, y: 221}
+  m_MaxSize: {x: 12008, y: 4021}
+  vertical: 0
+  controlID: 2270
+--- !u!114 &12
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -501,6 +975,8 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: 404
     y: 0
     width: 555
@@ -511,11 +987,16 @@ MonoBehaviour:
 =======
     x: 505
     y: 0
+=======
+    x: 505
+    y: 0
+>>>>>>> aed788c... made title screen background
     width: 1536
     height: 811
   m_MinSize: {x: 204, y: 221}
   m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 16}
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
   m_Panes:
   - {fileID: 17}
@@ -550,9 +1031,12 @@ MonoBehaviour:
   m_Selected: 1
   m_LastSelected: 0
 --- !u!114 &12
+=======
+--- !u!114 &11
+>>>>>>> aed788c... made title screen background
 MonoBehaviour:
   m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -707,6 +1191,14 @@ MonoBehaviour:
     m_IsLocked: 0
   m_CurrentSortingName: TransformSorting
 --- !u!114 &15
+=======
+    y: 1024
+    width: 2048
+    height: 20
+  m_MinSize: {x: 0, y: 0}
+  m_MaxSize: {x: 0, y: 0}
+--- !u!114 &10
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -717,6 +1209,7 @@ MonoBehaviour:
   m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
@@ -726,6 +1219,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 218
     y: 100
     width: 670
@@ -790,6 +1284,107 @@ MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
 >>>>>>> d8004e2... Added code for controls.
+=======
+=======
+    x: 255
+    y: 0
+    width: 689
+    height: 602
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 17}
+>>>>>>> 792e17e... done for now lol
+  m_Panes:
+  - {fileID: 17}
+  - {fileID: 13}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+<<<<<<< HEAD
+  m_PrefabParentObject: {fileID: 0}
+>>>>>>> aed788c... made title screen background
+=======
+  m_CorrespondingSourceObject: {fileID: 0}
+>>>>>>> 792e17e... done for now lol
+=======
+    x: 505
+=======
+  m_Children:
+  - {fileID: 11}
+  - {fileID: 6}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1633
+    height: 994
+  m_MinSize: {x: 608, y: 492}
+  m_MaxSize: {x: 12008, y: 14042}
+  vertical: 1
+  controlID: 23
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 5}
+  - {fileID: 12}
+  - {fileID: 2}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1633
+    height: 602
+  m_MinSize: {x: 608, y: 221}
+  m_MaxSize: {x: 12008, y: 4021}
+  vertical: 0
+  controlID: 2270
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 255
+>>>>>>> 792e17e... done for now lol
+    y: 0
+    width: 689
+    height: 602
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
+  m_ActualView: {fileID: 17}
+  m_Panes:
+  - {fileID: 17}
+  - {fileID: 13}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+<<<<<<< HEAD
+  m_PrefabParentObject: {fileID: 0}
+>>>>>>> aed788c... made title screen background
+=======
+  m_CorrespondingSourceObject: {fileID: 0}
+>>>>>>> 792e17e... done for now lol
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
@@ -799,11 +1394,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_AutoRepaintOnSceneChange: 0
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
 =======
 >>>>>>> d8004e2... Added code for controls.
+=======
+  m_AutoRepaintOnSceneChange: 0
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
+=======
+  m_AutoRepaintOnSceneChange: 0
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 2048, y: 2048}
   m_TitleContent:
@@ -813,10 +1422,14 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: 468
     y: 181
     width: 973
     height: 501
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_PersistentViewDataDictionary: {fileID: 0}
@@ -828,6 +1441,25 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &17
 >>>>>>> d8004e2... Added code for controls.
+=======
+--- !u!114 &13
+>>>>>>> aed788c... made title screen background
+=======
+=======
+>>>>>>> 792e17e... done for now lol
+    x: 406
+    y: 94
+    width: 1225
+    height: 581
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &14
+<<<<<<< HEAD
+>>>>>>> 792e17e... done for now lol
+=======
+--- !u!114 &13
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -849,16 +1481,22 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: -1
     y: 695
     width: 1631
     height: 371
   m_PersistentViewDataDictionary: {fileID: 0}
 =======
+=======
+>>>>>>> aed788c... made title screen background
     x: 0
+<<<<<<< HEAD
     y: 905
     width: 2039
     height: 509
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
 =======
     x: 14
@@ -867,6 +1505,27 @@ MonoBehaviour:
     height: 371
   m_PersistentViewDataDictionary: {fileID: 0}
 >>>>>>> d8004e2... Added code for controls.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+    y: 696
+    width: 1631
+    height: 371
+  m_PersistentViewDataDictionary: {fileID: 0}
+>>>>>>> 792e17e... done for now lol
+=======
+    x: 0
+<<<<<<< HEAD
+    y: 905
+    width: 2039
+    height: 509
+>>>>>>> aed788c... made title screen background
+=======
+    y: 696
+    width: 1631
+    height: 371
+  m_PersistentViewDataDictionary: {fileID: 0}
+>>>>>>> 792e17e... done for now lol
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -879,6 +1538,10 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
@@ -914,21 +1577,75 @@ MonoBehaviour:
     m_LastClickedID: 12162
     m_ExpandedIDs: 00000000e82c000000ca9a3b
 >>>>>>> d8004e2... Added code for controls.
+=======
+    - Assets
+=======
+    - Assets/audio assets
+>>>>>>> 792e17e... done for now lol
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/audio assets
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: /Users/jullianp1/Desktop/finalproject/nep_wars
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
+    m_SelectedIDs: b0230000
+    m_LastClickedID: 9136
+    m_ExpandedIDs: 00000000b023000000ca9a3bffffff7f
+>>>>>>> aed788c... made title screen background
+=======
+    m_SelectedIDs: 7c340000
+    m_LastClickedID: 13436
+    m_ExpandedIDs: 00000000702c0000942d000000ca9a3b
+>>>>>>> 792e17e... done for now lol
+=======
+    - Assets
+=======
+    - Assets/audio assets
+>>>>>>> 792e17e... done for now lol
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/audio assets
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: /Users/jullianp1/Desktop/finalproject/nep_wars
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
+    m_SelectedIDs: b0230000
+    m_LastClickedID: 9136
+    m_ExpandedIDs: 00000000b023000000ca9a3bffffff7f
+>>>>>>> aed788c... made title screen background
+=======
+    m_SelectedIDs: 7c340000
+    m_LastClickedID: 13436
+    m_ExpandedIDs: 00000000702c0000942d000000ca9a3b
+>>>>>>> 792e17e... done for now lol
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: audio assets
+      m_OriginalName: audio assets
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 13436
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
       m_ClientGUIView: {fileID: 6}
     m_SearchString: 
@@ -939,6 +1656,20 @@ MonoBehaviour:
 =======
     m_SearchString: 
 >>>>>>> d8004e2... Added code for controls.
+=======
+      m_ClientGUIView: {fileID: 0}
+>>>>>>> aed788c... made title screen background
+=======
+      m_ClientGUIView: {fileID: 6}
+    m_SearchString: 
+>>>>>>> 792e17e... done for now lol
+=======
+      m_ClientGUIView: {fileID: 0}
+>>>>>>> aed788c... made title screen background
+=======
+      m_ClientGUIView: {fileID: 6}
+    m_SearchString: 
+>>>>>>> 792e17e... done for now lol
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -951,6 +1682,10 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000fa2900001e2b0000
 =======
     m_ExpandedIDs: 00000000b023000000ca9a3bffffff7f
@@ -958,6 +1693,18 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 00000000e82c000000ca9a3b
 >>>>>>> d8004e2... Added code for controls.
+=======
+    m_ExpandedIDs: 00000000b023000000ca9a3bffffff7f
+>>>>>>> aed788c... made title screen background
+=======
+    m_ExpandedIDs: 00000000702c0000942d0000142f0000
+>>>>>>> 792e17e... done for now lol
+=======
+    m_ExpandedIDs: 00000000b023000000ca9a3bffffff7f
+>>>>>>> aed788c... made title screen background
+=======
+    m_ExpandedIDs: 00000000702c0000942d0000142f0000
+>>>>>>> 792e17e... done for now lol
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -982,10 +1729,11 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-<<<<<<< HEAD
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_ExpandedInstanceIDs: c6230000a43c0000
 =======
@@ -996,6 +1744,12 @@ MonoBehaviour:
 >>>>>>> d8004e2... Added code for controls.
     m_ExpandedInstanceIDs: c6230000
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+    m_ExpandedInstanceIDs: c6230000
+>>>>>>> aed788c... made title screen background
+=======
+    m_ExpandedInstanceIDs: c6230000
+>>>>>>> aed788c... made title screen background
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1024,10 +1778,26 @@ MonoBehaviour:
   m_DirectoriesAreaWidth: 115
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &15
 =======
 --- !u!114 &14
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+--- !u!114 &14
+>>>>>>> aed788c... made title screen background
+=======
+--- !u!114 &15
+>>>>>>> 792e17e... done for now lol
+=======
+--- !u!114 &14
+>>>>>>> aed788c... made title screen background
+=======
+--- !u!114 &15
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1048,6 +1818,10 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: 1634
     y: 94
     width: 413
@@ -1058,13 +1832,41 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
 =======
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> aed788c... made title screen background
     x: 2043
     y: 94
     width: 517
     height: 1320
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+    x: 1635
+    y: 94
+=======
+    x: 1635
+    y: 94
+>>>>>>> 792e17e... done for now lol
+    width: 413
+    height: 973
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+<<<<<<< HEAD
+>>>>>>> 792e17e... done for now lol
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
   m_PreviewResizer:
     m_CachedPref: 160
     m_ControlHash: -371814159
@@ -1091,41 +1893,86 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: -1
     y: 94
     width: 402
     height: 580
   m_PersistentViewDataDictionary: {fileID: 0}
 =======
+=======
+>>>>>>> aed788c... made title screen background
     x: 0
     y: 94
+<<<<<<< HEAD
     width: 503
     height: 790
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+    width: 253
+    height: 581
+  m_PersistentViewDataDictionary: {fileID: 0}
+>>>>>>> 792e17e... done for now lol
+=======
+    x: 0
+    y: 94
+<<<<<<< HEAD
+    width: 503
+    height: 790
+>>>>>>> aed788c... made title screen background
+=======
+    width: 253
+    height: 581
+  m_PersistentViewDataDictionary: {fileID: 0}
+>>>>>>> 792e17e... done for now lol
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: e6fbffff00000000
 =======
     m_ExpandedIDs: 00000000
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+    m_ExpandedIDs: 00000000
+>>>>>>> aed788c... made title screen background
+=======
+    m_ExpandedIDs: 3810fdff4811fdffd4b8fdff1e8fffff2893ffff78f4ffff66f5ffffc6f6ffff7ef8ffff82fbffff000000009c380000a2380000b6380000c0380000d2380000
+>>>>>>> 792e17e... done for now lol
+=======
+    m_ExpandedIDs: 00000000
+>>>>>>> aed788c... made title screen background
+=======
+    m_ExpandedIDs: 3810fdff4811fdffd4b8fdff1e8fffff2893ffff78f4ffff66f5ffffc6f6ffff7ef8ffff82fbffff000000009c380000a2380000b6380000c0380000d2380000
+>>>>>>> 792e17e... done for now lol
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Username
+      m_OriginalName: Username
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 14508
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
 <<<<<<< HEAD
@@ -1135,11 +1982,55 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
 =======
+=======
+      m_ClientGUIView: {fileID: 0}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_SearchString: 
+>>>>>>> aed788c... made title screen background
+=======
+      m_ClientGUIView: {fileID: 0}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_SearchString: 
+>>>>>>> aed788c... made title screen background
     m_ColumnWidths: []
   m_ExpandedScenes: []
   m_CurrenRootInstanceID: 0
   m_Locked: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+      m_ClientGUIView: {fileID: 5}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - animation_testing
+  m_CurrenRootInstanceID: 0
+  m_LockTracker:
+    m_IsLocked: 0
+>>>>>>> 792e17e... done for now lol
+=======
+>>>>>>> aed788c... made title screen background
+=======
+      m_ClientGUIView: {fileID: 5}
+    m_SearchString: 
+  m_ExpandedScenes:
+  - animation_testing
+  m_CurrenRootInstanceID: 0
+  m_LockTracker:
+    m_IsLocked: 0
+>>>>>>> 792e17e... done for now lol
   m_CurrentSortingName: TransformSorting
 --- !u!114 &17
 MonoBehaviour:
@@ -1162,16 +2053,26 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: 405
     y: 94
     width: 551
     height: 580
   m_PersistentViewDataDictionary: {fileID: 0}
 =======
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> aed788c... made title screen background
     x: 507
     y: 94
     width: 1532
     height: 790
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
   m_SceneLighting: 1
   lastFramingTime: 0
@@ -1188,6 +2089,50 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0}
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+=======
+    x: 257
+    y: 94
+    width: 685
+    height: 581
+  m_PersistentViewDataDictionary: {fileID: 0}
+>>>>>>> 792e17e... done for now lol
+  m_SceneLighting: 1
+  lastFramingTime: 2274.8084729909897
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 7.103017, y: 9.745168, z: -5.0289}
+    speed: 2
+<<<<<<< HEAD
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> aed788c... made title screen background
+=======
+    m_Value: {x: 7.103017, y: 9.745168, z: -5.0289}
+>>>>>>> 792e17e... done for now lol
+=======
+=======
+    x: 257
+    y: 94
+    width: 685
+    height: 581
+  m_PersistentViewDataDictionary: {fileID: 0}
+>>>>>>> 792e17e... done for now lol
+  m_SceneLighting: 1
+  lastFramingTime: 2274.8084729909897
+  m_2DMode: 1
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: 7.103017, y: 9.745168, z: -5.0289}
+    speed: 2
+<<<<<<< HEAD
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> aed788c... made title screen background
+=======
+    m_Value: {x: 7.103017, y: 9.745168, z: -5.0289}
+>>>>>>> 792e17e... done for now lol
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1217,8 +2162,12 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0, y: 0, z: 0, w: 1}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
+<<<<<<< HEAD
+    m_Value: {x: 0, y: 0, z: 0, w: -0.99999994}
   m_Size:
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: 21.883091
     speed: 2
@@ -1230,23 +2179,74 @@ MonoBehaviour:
   m_ShowGlobalGrid: 1
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
 =======
+=======
+>>>>>>> aed788c... made title screen background
     m_Target: 10
+=======
+    m_Target: 25.513775
+>>>>>>> 792e17e... done for now lol
     speed: 2
-    m_Value: 10
+    m_Value: 25.513775
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
+<<<<<<< HEAD
     m_Value: 0
   m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+    m_Value: 1
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: 0.006555731, y: 0.65642047, z: 0.005704638, w: -0.7543452}
+>>>>>>> 792e17e... done for now lol
+=======
+    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+=======
+    m_Value: {x: 0, y: 0, z: 0, w: -0.99999994}
+>>>>>>> 792e17e... done for now lol
+  m_Size:
+    m_Target: 25.513775
+    speed: 2
+    m_Value: 25.513775
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+<<<<<<< HEAD
+    m_Value: 0
+  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+>>>>>>> aed788c... made title screen background
+=======
+    m_Value: 1
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: 0.006555731, y: 0.65642047, z: 0.005704638, w: -0.7543452}
+>>>>>>> 792e17e... done for now lol
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> d8004e2... Added code for controls.
 --- !u!114 &18
+=======
+--- !u!114 &17
+>>>>>>> aed788c... made title screen background
+=======
+--- !u!114 &18
+>>>>>>> 792e17e... done for now lol
+=======
+--- !u!114 &17
+>>>>>>> aed788c... made title screen background
+=======
+--- !u!114 &18
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1258,6 +2258,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  m_AutoRepaintOnSceneChange: 1
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
+=======
+  m_AutoRepaintOnSceneChange: 1
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
   m_MinSize: {x: 200, y: 200}
 =======
   m_MinSize: {x: 100, y: 100}
@@ -1272,6 +2286,10 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: 960
     y: 94
     width: 670
@@ -1282,32 +2300,87 @@ MonoBehaviour:
   m_Stats: 0
   m_SelectedSizes: 07000000000000000000000000000000000000000000000000000000000000000000000000000000
 =======
+=======
+>>>>>>> aed788c... made title screen background
     x: 507
+=======
+    x: 946
+>>>>>>> 792e17e... done for now lol
     y: 94
-    width: 1532
-    height: 790
+    width: 685
+    height: 581
+  m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
+<<<<<<< HEAD
   m_SelectedSizes: 000000000000000000000000000000000000000000000000000000000000000000000000
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+    x: 507
+=======
+    x: 946
+>>>>>>> 792e17e... done for now lol
+    y: 94
+    width: 685
+    height: 581
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+<<<<<<< HEAD
+  m_SelectedSizes: 000000000000000000000000000000000000000000000000000000000000000000000000
+>>>>>>> aed788c... made title screen background
+=======
+  m_SelectedSizes: 07000000000000000000000000000000000000000000000000000000000000000000000000000000
+>>>>>>> 792e17e... done for now lol
+=======
+>>>>>>> aed788c... made title screen background
+=======
+  m_SelectedSizes: 07000000000000000000000000000000000000000000000000000000000000000000000000000000
+>>>>>>> 792e17e... done for now lol
   m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 792e17e... done for now lol
+=======
+>>>>>>> 792e17e... done for now lol
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -480
     m_HBaseRangeMax: 480
     m_VBaseRangeMin: -270
     m_VBaseRangeMax: 270
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> aed788c... made title screen background
     m_HBaseRangeMin: -383
     m_HBaseRangeMax: 383
     m_VBaseRangeMin: -193.25
     m_VBaseRangeMax: 193.25
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1317,8 +2390,26 @@ MonoBehaviour:
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
+=======
+    m_EnableSliderZoom: 0
+>>>>>>> aed788c... made title screen background
+=======
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+>>>>>>> 792e17e... done for now lol
+=======
+    m_EnableSliderZoom: 0
+>>>>>>> aed788c... made title screen background
+=======
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+>>>>>>> 792e17e... done for now lol
     m_UniformScale: 1
     m_UpDirection: 1
     m_DrawArea:
@@ -1326,16 +2417,41 @@ MonoBehaviour:
       x: 0
       y: 17
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
       width: 670
       height: 563
     m_Scale: {x: 0.6979167, y: 0.6979167}
     m_Translation: {x: 335, y: 281.5}
 =======
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> aed788c... made title screen background
       width: 1532
       height: 773
     m_Scale: {x: 2, y: 2}
     m_Translation: {x: 766, y: 386.5}
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+=======
+>>>>>>> 792e17e... done for now lol
+      width: 685
+      height: 564
+    m_Scale: {x: 0.7135417, y: 0.7135417}
+    m_Translation: {x: 342.5, y: 282}
+<<<<<<< HEAD
+>>>>>>> 792e17e... done for now lol
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -1343,13 +2459,31 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
       x: -480
       y: -403.34326
       width: 960
       height: 806.6865
+=======
+      x: -383
+      y: -193.25
+      width: 766
+      height: 386.5
+>>>>>>> aed788c... made title screen background
+=======
+      x: -480
+      y: -395.21167
+      width: 960
+      height: 790.42334
+>>>>>>> 792e17e... done for now lol
     m_MinimalGUI: 1
-  m_defaultScale: 0.6979167
+  m_defaultScale: 0.7135417
   m_TargetTexture: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 1340, y: 1160}
   m_ClearInEditMode: 1
@@ -1358,19 +2492,29 @@ MonoBehaviour:
   m_XRRenderMode: 0
 --- !u!114 &19
 =======
+=======
+>>>>>>> aed788c... made title screen background
       x: -383
       y: -193.25
       width: 766
       height: 386.5
+=======
+      x: -480
+      y: -395.21167
+      width: 960
+      height: 790.42334
+>>>>>>> 792e17e... done for now lol
     m_MinimalGUI: 1
-  m_defaultScale: 2
+  m_defaultScale: 0.7135417
   m_TargetTexture: {fileID: 0}
-  m_CurrentColorSpace: 1
-  m_LastWindowPixelSize: {x: 3064, y: 1580}
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 1370, y: 1162}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
+<<<<<<< HEAD
   m_LowResolutionForAspectRatios: 010000000001000001
 --- !u!114 &18
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
 =======
     x: 14
@@ -1380,6 +2524,30 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &19
 >>>>>>> d8004e2... Added code for controls.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+  m_LowResolutionForAspectRatios: 01000000000100000100
+  m_XRRenderMode: 0
+--- !u!114 &19
+>>>>>>> 792e17e... done for now lol
+=======
+  m_CurrentColorSpace: 1
+  m_LastWindowPixelSize: {x: 3064, y: 1580}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 010000000001000001
+--- !u!114 &18
+>>>>>>> aed788c... made title screen background
+=======
+  m_CurrentColorSpace: 0
+  m_LastWindowPixelSize: {x: 1370, y: 1162}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+  m_XRRenderMode: 0
+--- !u!114 &19
+>>>>>>> 792e17e... done for now lol
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1391,6 +2559,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  m_AutoRepaintOnSceneChange: 0
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
+=======
+  m_AutoRepaintOnSceneChange: 0
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> 792e17e... done for now lol
   m_MinSize: {x: 100, y: 100}
 =======
   m_MinSize: {x: 275, y: 50}
@@ -1405,16 +2587,26 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: 1635
     y: 94
     width: 413
     height: 973
   m_PersistentViewDataDictionary: {fileID: 0}
 =======
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> aed788c... made title screen background
     x: 8
     y: 718
     width: 1366
     height: 308
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
 =======
     x: 1649
@@ -1432,3 +2624,13 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
 >>>>>>> d8004e2... Added code for controls.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+  m_PersistentViewDataDictionary: {fileID: 0}
+>>>>>>> 792e17e... done for now lol
+=======
+>>>>>>> aed788c... made title screen background
+=======
+  m_PersistentViewDataDictionary: {fileID: 0}
+>>>>>>> 792e17e... done for now lol

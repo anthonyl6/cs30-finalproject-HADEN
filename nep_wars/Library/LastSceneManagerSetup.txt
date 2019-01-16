@@ -1,8 +1,16 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Level 1.unity
 =======
 - path: Assets/Scenes/Controls.unity
 >>>>>>> d8004e2... Added code for controls.
+=======
+- path: Assets/Scenes/animation_testing.unity
+>>>>>>> 792e17e... done for now lol
+=======
+- path: Assets/Scenes/animation_testing.unity
+>>>>>>> 792e17e... done for now lol
   isLoaded: 1
   isActive: 1

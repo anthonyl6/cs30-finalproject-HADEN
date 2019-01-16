@@ -124,7 +124,15 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
  <Reference Include="UnityEditor.StandardEvents">
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+=======
+ <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+>>>>>>> aed788c... made title screen background
+=======
+ <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+>>>>>>> aed788c... made title screen background
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -133,6 +141,8 @@
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
+<<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
 =======
  <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
@@ -146,6 +156,12 @@
  <Reference Include="Unity.TextMeshPro">
  <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+ <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> aed788c... made title screen background
+=======
+ <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+>>>>>>> aed788c... made title screen background
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -350,6 +366,8 @@
  </Reference>
  <Reference Include="UnityEngine.Analytics">
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
@@ -360,6 +378,17 @@
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/anthonyl6/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
 >>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
+=======
+=======
+>>>>>>> aed788c... made title screen background
+ <HintPath>/Users/jullianp1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.StandardEvents">
+ <HintPath>/Users/jullianp1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+<<<<<<< HEAD
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> aed788c... made title screen background
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
