@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
 	"process_id" : 4135,
+=======
+	"process_id" : 9685,
+>>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
 	"version" : "2018.2.5f1"
 }

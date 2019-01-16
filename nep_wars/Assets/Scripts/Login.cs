@@ -14,17 +14,11 @@ public class Login : MonoBehaviour {
 	[SerializeField] GameObject loadingText;
 	private String[] Lines;
 	private string DecryptedPass;
-
-	//cached references
-	usernamedisplay usernameTest;
-	public string usernameTemp;
-	string test;
+	private string form;
 	
 
 	// Use this for initialization
 	void Start () {
-		usernameTest = FindObjectOfType<usernamedisplay>();
-		test = "Hello Working";
 		
 	}
 	
@@ -92,8 +86,6 @@ public class Login : MonoBehaviour {
 
 			loadingPanel.SetActive(true);
 			loadingText.SetActive(true);
-
-			usernameTemp = username.text;
 			
 
 			UsernameDisplay();
@@ -105,16 +97,14 @@ public class Login : MonoBehaviour {
 
 	public IEnumerator wait() {
 		yield return new WaitForSeconds(2);
+		form = (username.text);
+		System.IO.File.WriteAllText(@"/Users/"+Environment.UserName+"/Documents/NepWars/usernamedump.txt", form);
 		SceneManager.LoadScene("Title Screen");
 	}
 
 	public string UsernameDisplay()
 	{
-		Debug.Log("Username function ran");
-		Debug.Log(usernameTemp);
-		test = "temp user";
-		Debug.Log(test);
-		return test;
+		return username.text;
 	}
 
 	// Update is called once per frame

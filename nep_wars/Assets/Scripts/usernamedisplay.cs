@@ -1,33 +1,29 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
+using System;
+using System.IO;
+using System.Text.RegularExpressions;
 using TMPro;
 
 public class usernamedisplay : MonoBehaviour {
-
-	//cached references
-	Login login;
-	TextMeshProUGUI usernameText;
-
-	//variables
-	public string UsernameText;
 	
+	TextMeshProUGUI text;
 	void Start()
 	{
-		login = FindObjectOfType<Login>();
-		
-		usernameText = GetComponent<TextMeshProUGUI>();
-		
-		// usernameText.text = login.username.text;
+		text = GetComponent<TextMeshProUGUI>();
+		readFile();
+	}
+
+	private void readFile()
+	{
+		string path = @"/Users/"+Environment.UserName+"/Documents/NepWars/usernamedump.txt";
+
+		StreamReader reader = new StreamReader(path);
+		text.text = reader.ReadLine();
+		reader.Close();
 	}
 	
-	// Update is called once per frame
-	void Update() 
-	{
-		string temptest;
-		// HAS TO BE login.UsernameDisplay()
-		temptest = login.UsernameDisplay();
-		Debug.Log(temptest);
-		
-	}
 }
