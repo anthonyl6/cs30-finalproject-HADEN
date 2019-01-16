@@ -118,53 +118,16 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
  <Reference Include="UnityEditor.StandardEvents">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 924fab3... 2 player controls
->>>>>>> jp
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
-=======
- <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
->>>>>>> 87fd902... idk
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
-<<<<<<< HEAD
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
- <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
->>>>>>> 499ba59... added bullet sprite, animated chicken
-=======
- <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
->>>>>>> AL_Login
-=======
->>>>>>> 924fab3... 2 player controls
-=======
- <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
->>>>>>> 87fd902... idk
->>>>>>> jp
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -368,42 +331,10 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 924fab3... 2 player controls
->>>>>>> jp
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 87fd902... idk
- <HintPath>/Users/jullianp1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.StandardEvents">
- <HintPath>/Users/jullianp1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
-<<<<<<< HEAD
->>>>>>> 499ba59... added bullet sprite, animated chicken
-=======
- <HintPath>/Users/anthonyl6/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.StandardEvents">
- <HintPath>/Users/anthonyl6/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
->>>>>>> AL_Login
-=======
->>>>>>> 924fab3... 2 player controls
-=======
->>>>>>> 87fd902... idk
->>>>>>> jp
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
