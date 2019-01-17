@@ -6,6 +6,8 @@ TagManager:
   tags:
   - bullet
   - ButtonUp
+  - Char1
+  - Char2
   layers:
   - Default
   - TransparentFX
