@@ -63,10 +63,7 @@
      <Compile Include="Assets\Scripts\PlayerStats.cs" />
      <Compile Include="Assets\Scripts\Register.cs" />
      <Compile Include="Assets\Scripts\Shoot.cs" />
-<<<<<<< HEAD
      <Compile Include="Assets\Scripts\ShootP2.cs" />
-=======
->>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
      <Compile Include="Assets\Scripts\usernamedisplay.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
@@ -126,6 +123,9 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fca2150... Control changes
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
 =======
  <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
@@ -144,6 +144,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+<<<<<<< HEAD
 =======
  <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
@@ -162,6 +163,8 @@
 =======
  <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
 >>>>>>> aed788c... made title screen background
+=======
+>>>>>>> fca2150... Control changes
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -368,10 +371,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fca2150... Control changes
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+<<<<<<< HEAD
 =======
  <HintPath>/Users/anthonyl6/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
@@ -389,6 +396,8 @@
 >>>>>>> aed788c... made title screen background
 =======
 >>>>>>> aed788c... made title screen background
+=======
+>>>>>>> fca2150... Control changes
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>

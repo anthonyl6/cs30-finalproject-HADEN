@@ -2,6 +2,7 @@ sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Level 1.unity
 =======
 - path: Assets/Scenes/Controls.unity
@@ -12,5 +13,8 @@ sceneSetups:
 =======
 - path: Assets/Scenes/animation_testing.unity
 >>>>>>> 792e17e... done for now lol
+=======
+- path: Assets/Scenes/Level 1.unity
+>>>>>>> fca2150... Control changes
   isLoaded: 1
   isActive: 1
