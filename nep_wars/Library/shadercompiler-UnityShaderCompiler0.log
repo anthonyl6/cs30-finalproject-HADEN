@@ -3,6 +3,7 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 <<<<<<< HEAD
+<<<<<<< HEAD
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -48,3 +49,6 @@ Cmd: initializeCompiler
 >>>>>>> fca2150... Control changes
 =======
 >>>>>>> 2bcec1e... title screen broke; making it again lol
+=======
+Cmd: initializeCompiler
+>>>>>>> 6a18389... created new script TextHover for title screen

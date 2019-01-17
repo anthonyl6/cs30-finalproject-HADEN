@@ -64,6 +64,7 @@
      <Compile Include="Assets\Scripts\Register.cs" />
      <Compile Include="Assets\Scripts\Shoot.cs" />
      <Compile Include="Assets\Scripts\ShootP2.cs" />
+     <Compile Include="Assets\Scripts\TextHover.cs" />
      <Compile Include="Assets\Scripts\usernamedisplay.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
