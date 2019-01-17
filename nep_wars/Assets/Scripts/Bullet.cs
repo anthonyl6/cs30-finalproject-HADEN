@@ -15,7 +15,9 @@ public class Bullet : MonoBehaviour, iPooledObject {
 
 		Vector3 force = new Vector3(xForce, yForce);
 
-		GetComponent<Rigidbody>().velocity = force;
+		GetComponent<Rigidbody2D>().velocity = force;
+		
+		
 
 	}
 	

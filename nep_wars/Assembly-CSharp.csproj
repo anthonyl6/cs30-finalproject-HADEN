@@ -56,6 +56,11 @@
      <Compile Include="Assets\Scripts\Bullet.cs" />
      <Compile Include="Assets\Scripts\Control.cs" />
      <Compile Include="Assets\Scripts\ControlP2.cs" />
+<<<<<<< HEAD
+=======
+     <Compile Include="Assets\Scripts\Controls.cs" />
+     <Compile Include="Assets\Scripts\Homing.cs" />
+>>>>>>> b9ad4e8... tried making homing, failed.
      <Compile Include="Assets\Scripts\iPooledObject.cs" />
      <Compile Include="Assets\Scripts\Login.cs" />
      <Compile Include="Assets\Scripts\ObjectPool.cs" />
@@ -132,15 +137,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> fca2150... Control changes
+=======
+>>>>>>> b9ad4e8... tried making homing, failed.
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
-=======
- <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
->>>>>>> aed788c... made title screen background
-=======
- <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
->>>>>>> aed788c... made title screen background
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
@@ -149,9 +151,8 @@
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
-<<<<<<< HEAD
-<<<<<<< HEAD
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
@@ -177,7 +178,12 @@
 >>>>>>> fca2150... Control changes
 =======
 >>>>>>> 2bcec1e... title screen broke; making it again lol
+<<<<<<< HEAD
 >>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
+=======
+=======
+>>>>>>> b9ad4e8... tried making homing, failed.
+>>>>>>> 839ad9f026e5b23bbd06505ee3579d5568dd2760
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -388,12 +394,16 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> fca2150... Control changes
+=======
+>>>>>>> b9ad4e8... tried making homing, failed.
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
@@ -422,7 +432,12 @@
 >>>>>>> fca2150... Control changes
 =======
 >>>>>>> 2bcec1e... title screen broke; making it again lol
+<<<<<<< HEAD
 >>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
+=======
+=======
+>>>>>>> b9ad4e8... tried making homing, failed.
+>>>>>>> 839ad9f026e5b23bbd06505ee3579d5568dd2760
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
