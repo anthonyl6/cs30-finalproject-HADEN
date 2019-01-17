@@ -21,9 +21,13 @@ GameObject:
   - component: {fileID: 4260924557933124}
   - component: {fileID: 212481560173109738}
   - component: {fileID: 95572905234875208}
+  - component: {fileID: 114975451036129286}
+  - component: {fileID: 114669206625241698}
+  - component: {fileID: 114520483326692020}
+  - component: {fileID: 114158955191811386}
   m_Layer: 0
   m_Name: chicken_run
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35,7 +39,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1538372745375170}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.56, y: 4.34, z: -18.067347}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 4, y: 4, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -59,6 +63,50 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &114158955191811386
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1538372745375170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114520483326692020
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1538372745375170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114669206625241698
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1538372745375170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114975451036129286
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1538372745375170}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d6fdd3f311084e0aa1430236f1f0807, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!212 &212481560173109738
 SpriteRenderer:
   m_ObjectHideFlags: 1

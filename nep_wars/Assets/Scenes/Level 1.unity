@@ -113,55 +113,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &2737463 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 1538372745375170, guid: 230996a3b91404f68a60262a59d54684,
-    type: 2}
-  m_PrefabInternal: {fileID: 1831813988}
---- !u!114 &2737464
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2737463}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5d6fdd3f311084e0aa1430236f1f0807, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2737468
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2737463}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2737469
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2737463}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2737470
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2737463}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &996535776
 Prefab:
   m_ObjectHideFlags: 0
@@ -201,6 +152,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 1459275975292846, guid: 48633ed87801b46ba8794596131dc0b1, type: 2}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 48633ed87801b46ba8794596131dc0b1, type: 2}
   m_IsPrefabAsset: 0
@@ -237,7 +192,7 @@ MonoBehaviour:
     size: 150
   - tag: prinnysword
     prefab: {fileID: 1771782052903822, guid: bc73a5e48e0784155a445a579d00ef72, type: 2}
-    size: 150
+    size: 500
 --- !u!4 &1545784118
 Transform:
   m_ObjectHideFlags: 0
