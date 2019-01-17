@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/Level 1.unity
-=======
-- path: Assets/Scenes/Controls.unity
->>>>>>> d8004e2... Added code for controls.
+- path: Assets/Scenes/Character Select.unity
   isLoaded: 1
   isActive: 1
