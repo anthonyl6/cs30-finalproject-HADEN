@@ -2,6 +2,11 @@ Base path: /Applications/Unity/Unity.app/Contents
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -74,6 +79,8 @@ Cmd: compileSnippet
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+<<<<<<< HEAD
+<<<<<<< HEAD
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -91,3 +98,29 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+<<<<<<< HEAD
+=======
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+>>>>>>> d8004e2... Added code for controls.
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> aed788c... made title screen background
+=======
+>>>>>>> fca2150... Control changes
+=======
+>>>>>>> 2bcec1e... title screen broke; making it again lol
+=======
+Cmd: initializeCompiler
+>>>>>>> 6a18389... created new script TextHover for title screen
+=======
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+>>>>>>> 202bf5d... im bad at coding
+>>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef

@@ -14,7 +14,7 @@ public class ShootP2 : MonoBehaviour {
 
 	void FixedUpdate () {
 
-		if(Input.GetKeyDown(KeyCode.P)) {
+		if(Input.GetButton("Fire2")) {
 			ObjectPool.Instance.SpawnFromPool("prinnysword", transform.position, Quaternion.identity);
 		}
 			

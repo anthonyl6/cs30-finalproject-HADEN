@@ -1,4 +1,24 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Character Select.unity
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+- path: Assets/Scenes/Level 1.unity
+=======
+- path: Assets/Scenes/Controls.unity
+>>>>>>> d8004e2... Added code for controls.
+=======
+- path: Assets/Scenes/animation_testing.unity
+>>>>>>> 792e17e... done for now lol
+=======
+- path: Assets/Scenes/animation_testing.unity
+>>>>>>> 792e17e... done for now lol
+=======
+- path: Assets/Scenes/Level 1.unity
+>>>>>>> fca2150... Control changes
+>>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
   isLoaded: 1
   isActive: 1
