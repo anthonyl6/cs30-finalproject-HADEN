@@ -56,7 +56,6 @@
      <Compile Include="Assets\Scripts\Bullet.cs" />
      <Compile Include="Assets\Scripts\Control.cs" />
      <Compile Include="Assets\Scripts\ControlP2.cs" />
-     <Compile Include="Assets\Scripts\Controls.cs" />
      <Compile Include="Assets\Scripts\iPooledObject.cs" />
      <Compile Include="Assets\Scripts\Login.cs" />
      <Compile Include="Assets\Scripts\ObjectPool.cs" />

@@ -830,6 +830,7 @@ GameObject:
   - component: {fileID: 1714600796}
   - component: {fileID: 1714600795}
   - component: {fileID: 1714600797}
+  - component: {fileID: 1714600798}
   m_Layer: 0
   m_Name: text_multiplayer
   m_TagString: Untagged
@@ -908,6 +909,17 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 3.3500004, y: 0.27500004, z: 0.20000003}
   m_Center: {x: -0.000000023283064, y: -0.00000011920929, z: 0.00000047683716}
+--- !u!114 &1714600798
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1714600794}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 838f38e67df9446458e2b55d8b11f2fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1880317348
 GameObject:
   m_ObjectHideFlags: 0
