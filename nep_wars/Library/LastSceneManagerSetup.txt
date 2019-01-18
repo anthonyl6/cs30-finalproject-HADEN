@@ -1,5 +1,6 @@
 sceneSetups:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Character Select.unity
 =======
 <<<<<<< HEAD
@@ -20,5 +21,8 @@ sceneSetups:
 - path: Assets/Scenes/Level 1.unity
 >>>>>>> fca2150... Control changes
 >>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
+=======
+- path: Assets/Scenes/Level 1.unity
+>>>>>>> ec91313... tried to make homing work and itdidn't
   isLoaded: 1
   isActive: 1

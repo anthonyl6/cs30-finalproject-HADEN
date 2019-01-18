@@ -6,7 +6,6 @@ public class Bullet : MonoBehaviour, iPooledObject {
 
 	public float upForce = 1f;
 	public float sideForce = .1f;
-
 	// Use this for initialization
 	public void OnObjectSpawn () {
 		
@@ -16,8 +15,7 @@ public class Bullet : MonoBehaviour, iPooledObject {
 		Vector3 force = new Vector3(xForce, yForce);
 
 		GetComponent<Rigidbody2D>().velocity = force;
-		
-		
+
 
 	}
 	

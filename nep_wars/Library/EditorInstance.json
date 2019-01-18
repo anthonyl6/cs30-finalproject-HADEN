@@ -1,24 +1,4 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-	"process_id" : 4135,
-=======
-	"process_id" : 9685,
->>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
-=======
-	"process_id" : 2652,
->>>>>>> aed788c... made title screen background
-=======
-	"process_id" : 2652,
->>>>>>> aed788c... made title screen background
-=======
-	"process_id" : 657,
->>>>>>> fca2150... Control changes
-=======
-	"process_id" : 1794,
->>>>>>> 2bcec1e... title screen broke; making it again lol
+	"process_id" : 652,
 	"version" : "2018.2.5f1"
 }

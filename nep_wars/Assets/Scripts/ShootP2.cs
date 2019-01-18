@@ -15,7 +15,7 @@ public class ShootP2 : MonoBehaviour {
 
 		if(Input.GetButton("Fire2")) {
 
-		ObjectPool.Instance.SpawnFromPool("prinnysword", GameObject.FindWithTag("Player").transform.position, Quaternion.identity);
+		ObjectPool.Instance.SpawnFromPool("prinnysword", transform.position, Quaternion.identity);
 
 
 		}
