@@ -66,6 +66,7 @@
      <Compile Include="Assets\Scripts\SelectP2.cs" />
      <Compile Include="Assets\Scripts\Shoot.cs" />
      <Compile Include="Assets\Scripts\ShootP2.cs" />
+     <Compile Include="Assets\Scripts\StartGame.cs" />
      <Compile Include="Assets\Scripts\TextHover.cs" />
      <Compile Include="Assets\Scripts\usernamedisplay.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
