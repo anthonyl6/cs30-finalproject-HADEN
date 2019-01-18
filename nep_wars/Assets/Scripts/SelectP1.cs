@@ -50,4 +50,6 @@ public class SelectP1 : MonoBehaviour {
 			}
 		}
 	}
+
+	
 }
