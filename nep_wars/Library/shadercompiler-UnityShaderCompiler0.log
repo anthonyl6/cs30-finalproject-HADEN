@@ -4,6 +4,7 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -131,3 +132,8 @@ Cmd: initializeCompiler
 >>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
 =======
 >>>>>>> ec91313... tried to make homing work and itdidn't
+=======
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+>>>>>>> 3bddc5d... Testi.
