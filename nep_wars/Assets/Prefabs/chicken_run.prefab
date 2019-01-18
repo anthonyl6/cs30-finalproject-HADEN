@@ -9,58 +9,49 @@ Prefab:
     m_Modifications: []
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 0}
-  m_RootGameObject: {fileID: 1538372745375170}
+  m_RootGameObject: {fileID: 1056904220622810}
   m_IsPrefabAsset: 1
---- !u!1 &1538372745375170
+--- !u!1 &1056904220622810
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 4260924557933124}
-  - component: {fileID: 212481560173109738}
-  - component: {fileID: 95572905234875208}
-<<<<<<< HEAD
-  - component: {fileID: 114887426984921412}
-  - component: {fileID: 114794201513923608}
-=======
-  - component: {fileID: 114975451036129286}
-  - component: {fileID: 114669206625241698}
-  - component: {fileID: 114520483326692020}
-  - component: {fileID: 114158955191811386}
->>>>>>> 839ad9f026e5b23bbd06505ee3579d5568dd2760
+  - component: {fileID: 4308840921322828}
+  - component: {fileID: 212206704508694350}
+  - component: {fileID: 95706350977945010}
+  - component: {fileID: 114184636096578230}
+  - component: {fileID: 114333574926107062}
+  - component: {fileID: 114348264258213450}
+  - component: {fileID: 114354507375554900}
   m_Layer: 0
-  m_Name: chicken_run
-  m_TagString: Player
+  m_Name: chicken_run 1
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &4260924557933124
+--- !u!4 &4308840921322828
 Transform:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1538372745375170}
+  m_GameObject: {fileID: 1056904220622810}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< HEAD
-  m_LocalPosition: {x: -2.7812219, y: 0.3712616, z: 0}
-=======
   m_LocalPosition: {x: 0, y: 0, z: 0}
->>>>>>> 839ad9f026e5b23bbd06505ee3579d5568dd2760
   m_LocalScale: {x: 4, y: 4, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &95572905234875208
+--- !u!95 &95706350977945010
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1538372745375170}
+  m_GameObject: {fileID: 1056904220622810}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 127a0ddee16bc40538a4fc2a22d19e23, type: 2}
@@ -72,75 +63,59 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
-<<<<<<< HEAD
---- !u!114 &114794201513923608
-=======
---- !u!114 &114158955191811386
->>>>>>> 839ad9f026e5b23bbd06505ee3579d5568dd2760
+--- !u!114 &114184636096578230
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1538372745375170}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-<<<<<<< HEAD
-  m_Script: {fileID: 11500000, guid: 5d6fdd3f311084e0aa1430236f1f0807, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &114887426984921412
-=======
-  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &114520483326692020
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1538372745375170}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &114669206625241698
->>>>>>> 839ad9f026e5b23bbd06505ee3579d5568dd2760
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1538372745375170}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-<<<<<<< HEAD
-  m_Script: {fileID: 11500000, guid: ef48df07f5d134dd08b891b7e662a0b0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  upForce: 1
-  sideForce: 0.1
-=======
-  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &114975451036129286
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1538372745375170}
+  m_GameObject: {fileID: 1056904220622810}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5d6fdd3f311084e0aa1430236f1f0807, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
->>>>>>> 839ad9f026e5b23bbd06505ee3579d5568dd2760
---- !u!212 &212481560173109738
+--- !u!114 &114333574926107062
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1056904220622810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+--- !u!114 &114348264258213450
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1056904220622810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+--- !u!114 &114354507375554900
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1056904220622810}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea810e9f3901d4870b66359c1d3d8087, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 5
+--- !u!212 &212206704508694350
 SpriteRenderer:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1538372745375170}
+  m_GameObject: {fileID: 1056904220622810}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0

@@ -66,10 +66,7 @@
      <Compile Include="Assets\Scripts\SelectP2.cs" />
      <Compile Include="Assets\Scripts\Shoot.cs" />
      <Compile Include="Assets\Scripts\ShootP2.cs" />
-<<<<<<< HEAD
-=======
      <Compile Include="Assets\Scripts\TextHover.cs" />
->>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
      <Compile Include="Assets\Scripts\usernamedisplay.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
@@ -126,21 +123,6 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
  <Reference Include="UnityEditor.StandardEvents">
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> fca2150... Control changes
-=======
->>>>>>> b9ad4e8... tried making homing, failed.
-=======
->>>>>>> ec91313... tried to make homing work and itdidn't
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
@@ -151,41 +133,6 @@
  </Reference>
  <Reference Include="Unity.TextMeshPro">
  <HintPath>/Users/czedrickb1/Desktop/nepwars/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
- <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
-=======
- <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
->>>>>>> 2bcec1e... title screen broke; making it again lol
- </Reference>
- <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
- </Reference>
- <Reference Include="Unity.TextMeshPro">
-<<<<<<< HEAD
- <HintPath>/Users/anthonyl6/Desktop/FinalProject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-=======
- <HintPath>/Users/jullianp1/Desktop/finalproject/nep_wars/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
-<<<<<<< HEAD
->>>>>>> aed788c... made title screen background
-=======
->>>>>>> fca2150... Control changes
-=======
->>>>>>> 2bcec1e... title screen broke; making it again lol
-<<<<<<< HEAD
->>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
-=======
-=======
->>>>>>> b9ad4e8... tried making homing, failed.
->>>>>>> 839ad9f026e5b23bbd06505ee3579d5568dd2760
-=======
->>>>>>> ec91313... tried to make homing work and itdidn't
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -389,63 +336,10 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> fca2150... Control changes
-=======
->>>>>>> b9ad4e8... tried making homing, failed.
-=======
->>>>>>> ec91313... tried to make homing work and itdidn't
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.StandardEvents">
  <HintPath>/Users/czedrickb1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
- <HintPath>/Users/anthonyl6/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.StandardEvents">
- <HintPath>/Users/anthonyl6/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
-<<<<<<< HEAD
-=======
->>>>>>> 5386f36... Fixed the register and login so that the username displays on the title screen.
-=======
-=======
->>>>>>> aed788c... made title screen background
-=======
->>>>>>> 2bcec1e... title screen broke; making it again lol
- <HintPath>/Users/jullianp1/Library/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.StandardEvents">
- <HintPath>/Users/jullianp1/Library/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.13/UnityEngine.StandardEvents.dll</HintPath>
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> aed788c... made title screen background
-=======
->>>>>>> aed788c... made title screen background
-=======
->>>>>>> fca2150... Control changes
-=======
->>>>>>> 2bcec1e... title screen broke; making it again lol
-<<<<<<< HEAD
->>>>>>> eb97a8a3f3397f0bbd2750dcb76a7411dbd318ef
-=======
-=======
->>>>>>> b9ad4e8... tried making homing, failed.
->>>>>>> 839ad9f026e5b23bbd06505ee3579d5568dd2760
-=======
->>>>>>> ec91313... tried to make homing work and itdidn't
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unity/mscorlib.dll</HintPath>
