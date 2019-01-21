@@ -6,6 +6,7 @@ Cmd: initializeCompiler
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -77,3 +78,6 @@ Cmd: initializeCompiler
 >>>>>>> 3bddc5d... Testi.
 =======
 >>>>>>> 5ff1b07... Added a select and start game script.
+=======
+Cmd: initializeCompiler
+>>>>>>> dd5db19... boost2
