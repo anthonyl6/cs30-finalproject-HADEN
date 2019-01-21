@@ -14,5 +14,11 @@ public class ControlP2 : MonoBehaviour {
 
 		var movement = transform.position += move * speed * Time.deltaTime;
 
+		if(Input.GetButton("Boost2")) {
+			speed = 10f;
+		} else {
+			speed = 5f;
+		}
+
 	}
 }

@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Character Select.unity
+=======
+- path: Assets/Scenes/Level 1.unity
+>>>>>>> dd5db19... boost2
   isLoaded: 1
   isActive: 1
